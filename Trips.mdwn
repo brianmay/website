@@ -3,7 +3,7 @@ Trips I have been on.
 Flyaways:
 
 * [[1998/Mallacoota]]
-* [[1998/King_Island]] ?????
+* [[1998/King_Island]]
 * [[1999/Khancoban]]
 * [[1999/Lake_Mungo]]
 * [[template id=photos_album album=82 link="Mansfield (2000)"]]
@@ -13,7 +13,6 @@ Flyaways:
 * [[2000/Iandra]]
 * [[template id=photos_album album=81 link="Latrobe Valley (2000)"]]
 * [[2001/Lake_Mungo]]
-* [[template id=photos_album album=85 link="King Island (2001)"]] ???????
 * [[2001/Flinders_Island]]
 * [[2002/Robe]]
 * [[2004/Merimbula]]
