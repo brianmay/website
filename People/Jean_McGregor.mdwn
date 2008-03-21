@@ -81,4 +81,4 @@ Additional <a
 href="http://wiki.microcomaustralia.com.au/Jean_McGregor.html">rough notes</a>
 are available.
 
-<a href="internal:photos/person_id/11">More photos</a>
+[[template id=photos_album album=11 link="More photos"]]
