@@ -12,6 +12,6 @@ Lucy and family in 1956
 [[template id=photo photo=11124 title="Photo of Lucy May 1956"]]
 
 Frank's Birthday
-[[template id=photo photo=11125 title="Frank's Birthday"]]
+[[template id=photo photo=11125 title="Photo of Frank's Birthday"]]
 
 [[template id=photos_person person=20 link="More photos"]]
