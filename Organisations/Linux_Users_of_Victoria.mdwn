@@ -1,0 +1,4 @@
+[Linux Users of Victoria (LUV)](http://www.luv.asn.au/) is an organisation
+designed to promote the use of Linux and open source software in Victoria. They
+have [monthly meetings](http://www.luv.asn.au/node/12) in the city and organise
+other events throughout Victoria.

@@ -1,0 +1,5 @@
+[[template id=conference name="Debconf2" begin="2002-07-05" end="2002-07-07"
+location="[Toronto, Ontario, Canada](http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&msid=109540496108482654955.0004487505f6a63968772&ll=43.773612,-79.507552&spn=0.004486,0.007274&t=h&z=17)"]]
+
+[Debconf2](http://www.debian.org/events/2002/0705-debconf), 5-7 July 2002, York
+University, Toronto, Ontario in Canada.

@@ -1,0 +1,6 @@
+Conference: <TMPL_VAR name><br />
+Begin date: <TMPL_VAR begin><br />
+End date: <TMPL_VAR end><br />
+Trip: <TMPL_VAR trip><br />
+Location: <TMPL_VAR location><br />
+

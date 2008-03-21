@@ -1,0 +1,6 @@
+Destination: [<TMPL_VAR destination>](<TMPL_VAR map>)<br />
+Transport: <TMPL_VAR transport><br />
+Begin date: <TMPL_VAR begin><br />
+End date: <TMPL_VAR end><br />
+Purpose: <TMPL_VAR purpose><br />
+

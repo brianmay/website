@@ -1,0 +1,5 @@
+[[template id=trip destination="South Mole Island"
+transport="airliner" begin="2000-09-16" end="2000-09-23" purpose="holiday"
+map="http://maps.google.com.au/maps/ms?f=q&hl=en&geocode=&ie=UTF8&t=h&msa=0&msid=109540496108482654955.000448811d88a61656f46&ll=-20.254306,148.837194&spn=0.046623,0.058193&z=14"]]
+
+[[template id=photos_album album=24 link="More photos"]]

@@ -1,0 +1,18 @@
+I have had years of experience administrating [[a Linux
+system|Hobbies/Snoopy]]. I also have administrated various Linux systems for
+companies I work for.
+
+As a result, I have a large range of skills, including:
+
+* Linux
+* [Xen](http://en.wikipedia.org/wiki/Xen) virtual hosts
+* [[Asterisk]], runs under xen virtual domain.
+* Software RAID 1 (mirror).
+* Programming in sh, C, C++, [Ada](http://groups.google.com.au/group/comp.lang.ada/browse_thread/thread/21960280f1d61e84/4f32ef40e541eff7), Perl, Python, and PHP.
+* [Apache](http://en.wikipedia.org/wiki/Apache_HTTP_Server) webserver.
+* [Mysql](http://en.wikipedia.org/wiki/MySQL) and [Postgresql](http://en.wikipedia.org/wiki/Postgresql) SQL servers.
+* [DocBook](http://en.wikipedia.org/wiki/DocBook)
+* [HTML](http://en.wikipedia.org/wiki/HTML) and [CSS](http://en.wikipedia.org/wiki/CSS).
+* NIS and LDAP for distributed user databases.
+* [Kerberos](http://en.wikipedia.org/wiki/Kerberos_%28protocol%29) for secure single sign on.
+* ssh and sftp for secure remote logins and remote file copying.

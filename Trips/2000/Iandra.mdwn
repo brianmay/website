@@ -1,0 +1,18 @@
+[[template id=trip destination="Iandra"
+transport="light aircraft" begin="2000-11-04" end="2000-11-06" purpose="holiday"
+map="http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&msid=109540496108482654955.000448811d88a61656f46&ll=-34.080211,148.35886&spn=0.01029,0.014548&t=h&z=16"]]
+
+Iandra is a site with a historic building, Mt Oriel.  For more information on
+Iandra, please see <a
+href="http://www.greenethor-p.schools.nsw.edu.au/Pages/Local%20History.htm">Greenethorpe
+Public School’s</a> and <a
+href="http://www.heritage.nsw.gov.au/07_subnav_02_2.cfm?itemid=5051843">NSW
+Heritage Office’s</a> web pages.
+
+Apparently there was also a <a
+href="http://www.nswrail.net/lines/grenfell/greenethorpe.html">Railway
+Station</a> nearby that has since been closed. Also see the <a
+href="http://www.grenfell.org.au/tourism/grenfellsurrounds.htm">Greenfell</a>
+page.
+
+[[template id=photos_album album=36 link="More photos"]]

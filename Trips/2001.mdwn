@@ -1,0 +1,1 @@
+[[inline pages="Trips/2001/* and !*/Discussion" show="0" rootpage="2001" archive="yes" atom="no" rss="no"]]

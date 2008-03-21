@@ -1,0 +1,13 @@
+Conferences I have attended:
+
+* [[MADE2000]]: Göteborg, 2000-05-29.
+* [[WCC2000]], China, 16th World Computer Congress 2000, 2000-08.
+* [[LCA2002]], Brisbane, Australia, 2002-02-06.
+* [[OLS2002]], Ottawa, Canada, 2002-06-26.
+* [[Debconf2]], Toronto, Ontario, Canada, 2002-07-05.
+* [[LCA2003]], Perth, 2004-01-12.
+* [[LCA2004]], Adelaide, 2004-01-12.
+* [[LCA2005]], Canberra, 2005-04-18.
+* [[LCA2006]], Dunedin, New Zealand, 2006-01-23.
+* [[LCA2007]], Sydney, New South Wales, 2007-01-15.
+* [[LCA2008]], Melbourne, 2008-01-28.

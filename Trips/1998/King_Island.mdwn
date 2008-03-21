@@ -1,0 +1,6 @@
+[[template id=trip destination="King Island"
+transport="light aircraft" begin="1998-12-06" end="1998-12-06" purpose="holiday"
+map="http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&ll=-39.873846,143.878326&spn=0.03814,0.058193&t=h&z=14&msid=109540496108482654955.000448811d88a61656f46"
+]]
+
+[[template id=photos_album album=85 link="More photos"]]
