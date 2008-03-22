@@ -1,3 +1,3 @@
 <a href="http://staff.microcomaustralia.com.au/photos/all/<TMPL_VAR photo>.html">
-<img src="http://staff.microcomaustralia.com.au/photos/all/<TMPL_VAR photo>.jpg" width="400" alt="<TMPL_VAR title>" />
+<img src="http://staff.microcomaustralia.com.au/photos/all/mid/<TMPL_VAR photo>.jpg" width="400" alt="<TMPL_VAR title>" />
 </a>
