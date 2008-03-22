@@ -19,9 +19,10 @@ Flyaways:
 * [[template id=photos_album album=89 link="Nav Trial Day (2004)"]]
 * [[2004/Tocumwal]]
 * [[template id=photos_album album=90 link="Nav Trial Day (2004)"]]
-* [[template id=photos_album album=92 link="Point Cook Airshow"]]
-* [[template id=photos_album album=93 link="Mount Dandenong"]]
+* [[template id=photos_album album=92 link="Point Cook Airshow (2005)"]]
+* [[template id=photos_album album=93 link="Mount Dandenong (2005)"]]
 * [[template id=photos_album album=94 link="Nav Trial Day (2005)"]]
+* [[template id=photos_album album=151 link="Mount Dandenong (2008)"]]
 
 Other trips:
 
