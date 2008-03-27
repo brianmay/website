@@ -1,7 +1,11 @@
 [[template id=photo photo=11131 title="Photo of Jean McGregor"]]
 
-Born: 19 March 1918, Australia. <br />
+Born: 19 March 1918, Australia.
+
 Died: 23 November 2007, Upper Beaconsfield, Australia.
+
+Funeral: 27th November 2007, St Thomas Church, Upper Ferntree Gully; see
+[[template id=photos_album album=147 link="photos"]].
 
 Married to [[Charles_McGregor]].
 
