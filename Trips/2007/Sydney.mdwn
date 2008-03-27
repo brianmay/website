@@ -5,3 +5,5 @@ map="http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&msid=1095404961084826
 I went to Sydney to visit [[Skills/Conferences/LCA2007]]. The day after the
 conference finished I went into Sydney by bus and train, and visited the <a
 href="http://www.sydneytoweroztrek.com.au/tower.html">Sydney Tower</a>.
+
+[[template id=photos_album album=73 link="More photos"]]
