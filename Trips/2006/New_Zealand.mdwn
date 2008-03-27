@@ -1,8 +1,8 @@
-[[template id=trip destination="Dunedin"
+[[template id=trip destination="New Zealand"
 transport="airliner" begin="2006-01-22" end="2006-02-04" purpose="conference"
 map="http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&msid=109540496108482654955.000448811d88a61656f46&ll=-45.872561,170.503263&spn=0.034601,0.058193&t=h&z=14"]]
 
-I went to New Zealand to visit [[Skills/Conferences/LCA2006]]. After the
+I went to New Zealand to visit [[Skills/Conferences/LCA2006]] in Dunedin. After the
 conference finished, I travelled by car and ferry with Mum and my brother to
 Auckland on the north island.
 

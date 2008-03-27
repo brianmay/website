@@ -1,5 +1,5 @@
 [[template id=conference name="LCA2006" begin="2006-01-23" end="2006-01-28"
-trip="[[Trips/2006/Dunedin]]"
+trip="[[Trips/2006/New_Zealand]]"
 location="[Dunedin, New Zealand](http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&msid=109540496108482654955.0004487505f6a63968772&ll=-45.865389,170.51514&spn=0.008651,0.014548&t=h&z=16)"]]
 
 [LCA2006](http://www.linux.org.au/conf/2006/), Dunedin, New Zealand from the 23rd - 28th January 2006 at the University of Otago.
