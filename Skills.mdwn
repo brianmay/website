@@ -1,9 +1,10 @@
-Reasons why I am better then anybody else in this room:
+I hold skills in the following areas:
 
-* [[PhD]]
-* [[Conferences]]
-* [[Asterisk]]
-* [[Flying]]
-* [[Linux]]
-* [[Mythtv]]
-* I am the only person in this room.
+* I studied computer access control for my [[PhD]].
+* [[Asterisk]]: Open source telephone exchange system.
+* [[Flying]]: Travel from point A to point B through the sky.
+* [[Linux]]: Alternative operating system to Microsoft Windows.
+* [[Mythtv]]: For watching TV via the computer.
+
+I ensure my skills remain up-to-date by constantly researching new solutions
+for old problems and attending [[Conferences]] right around the globe.

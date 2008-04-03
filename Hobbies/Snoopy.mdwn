@@ -27,9 +27,9 @@ organisation, and increased our rent. We could not afford the old rates, let
 alone the new rates. The bottom line is that the HUB is no closed, and APANA in
 Melbourne only exists as DNS entries and IP addresses.
 
-Through my work in maintaining snoopy, I have learnt many [[Skills]] such as:
+Through my work in maintaining snoopy, I have attending meant
+[[Skills/Conferences]] and learnt many [[Skills]] such as:
 
-* [[Skills/Conferences]]
 * [[Skills/Asterisk]]
 * [[Skills/Linux]]
 * [[Skills/Mythtv]]
