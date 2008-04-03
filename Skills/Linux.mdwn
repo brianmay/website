@@ -1,5 +1,6 @@
-I have had years of experience administrating [[a Linux
-system|Hobbies/Snoopy]]. I also have administrated various Linux systems for
+I have had years of experience administrating
+[[a_Linux_system|Hobbies/Snoopy]].
+I also have administrated various Linux systems for
 companies I work for.
 
 As a result, I have a large range of skills, including:
