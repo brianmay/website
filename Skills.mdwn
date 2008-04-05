@@ -5,6 +5,7 @@ I hold skills in the following areas:
 * [[Flying]]: Travel from point A to point B through the sky.
 * [[Linux]]: Alternative operating system to Microsoft Windows.
 * [[Mythtv]]: For watching TV via the computer.
+* [[TSM|TSM.pdf]]: For backing up data onto tape libraries.
 
 I ensure my skills remain up-to-date by constantly researching new solutions
 for old problems and attending [[Conferences]] right around the globe.
