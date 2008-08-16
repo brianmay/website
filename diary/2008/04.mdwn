@@ -1,0 +1,2 @@
+[[inline pages="diary/2008/04/* and !*/Discussion" show="0" archive="yes" rss="no" atom="no"]]
+[[tag diary]]

@@ -1,0 +1,4 @@
+Articles that relate to accidents.
+
+[[inline pages="diary/* and !*/Discussion and link(accident)"]]
+[[tag diary]]
