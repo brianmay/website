@@ -23,6 +23,7 @@ Flyaways:
 * [[template id=photos_album album=93 link="Mount Dandenong (2005)"]]
 * [[template id=photos_album album=94 link="Nav Trial Day (2005)"]]
 * [[template id=photos_album album=151 link="Mount Dandenong (2008)"]]
+* [[template id=photos_album album=242 link="Melbourne (2008)"]]
 
 Other trips:
 
