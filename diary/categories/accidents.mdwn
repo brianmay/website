@@ -1,0 +1,5 @@
+# Accidents
+
+Articles that relate to accidents.
+
+[[inline pages="diary/* and !*/Discussion and link(categories/accidents)" show="0" archive="yes" rss="no" atom="no"]]

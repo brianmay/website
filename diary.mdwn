@@ -1,1 +1,3 @@
-[[inline pages="diary/* and !*/Discussion and !link(diary)"]]
+Things concerning [[categories]] I care to write about.
+
+[[inline pages="diary/* and !*/discussion and link(categories/*)"]]

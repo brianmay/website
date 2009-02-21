@@ -1,0 +1,5 @@
+# Diary in 2007
+
+Things that I cared to write about in 2007.
+
+[[inline pages="diary/2007/* and !*/Discussion and link(categories/*)" show="0" archive="yes" rss="no" atom="no"]]

@@ -1,4 +1,0 @@
-Articles that relate to security.
-
-[[inline pages="diary/* and !*/Discussion and link(security)"]]
-[[tag diary]]

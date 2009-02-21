@@ -1,0 +1,5 @@
+# Linux
+
+Articles that relate to [Linux](http://en.wikipedia.org/wiki/Linux).
+
+[[inline pages="diary/* and !*/Discussion and link(categories/computers/linux)" show="0" archive="yes" rss="no" atom="no"]]
