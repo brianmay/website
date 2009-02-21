@@ -2,4 +2,4 @@
 
 Things that I cared to write about in 2006.
 
-[[inline pages="diary/2006/* and !*/Discussion and link(categories/*)" show="0" archive="yes" rss="no" atom="no"]]
+[[!inline pages="diary/2006/* and !*/Discussion and link(categories/*)" show="0" archive="yes" rss="no" atom="no"]]

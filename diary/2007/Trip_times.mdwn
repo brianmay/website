@@ -26,4 +26,4 @@ I am guessing that in the 17 minutes the are only accounting for the delays in t
 
 At least there is frequent train services (at least in peak hour) so if you miss one you don't have long to wait.
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

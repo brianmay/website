@@ -31,4 +31,4 @@ the Lilydale train changes to a stopping all stations service. Unfortunately,
 trains are at there fullest at Richmond station, and I am least likely to get
 a seat (assuming I can even get on the train).
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

@@ -16,4 +16,4 @@ I caught the 4:50 Belgrave from Melbourne Central and arrived at UFTG at about 6
 
 Maybe the trip time wasn't so bad after all.
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

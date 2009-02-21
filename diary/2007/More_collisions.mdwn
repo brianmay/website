@@ -5,4 +5,4 @@ Yesterday, in the <a href="http://en.wikipedia.org/wiki/Burnley_Tunnel">Burnley 
 
 Today there were two separate accidents on Mount Dandenong Road, the same corner I [[lost_control]] and as [[another_car]]. The road was closed off for most of the afternoon.
 
-[[tag categories/private_transport]]
+[[!tag categories/accidents categories/private_transport]]

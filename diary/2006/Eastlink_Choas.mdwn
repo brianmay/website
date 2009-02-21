@@ -44,19 +44,19 @@ On the curious side:
 
 ## What went wrong?
 
-On the 20-21 the Eastlink bridge was moved into place [[template id=Source 
+On the 20-21 the Eastlink bridge was moved into place [[!template id=Source 
 author="""Chris Gordon""" 
 url="""http://www.vicsig.net/index.php?page=infrastructure&project=Eastlink""" 
 title="""Eastlink""" 
 pub="""VICSIG""" date="""2007-01-30"""]]).
 
-* [Eastlink](http://wiki.microcomaustralia.com.au/transport/private/Eastlink/) bridge works[[template id=cite url="http://forums.vicsig.net/viewtopic.php?t=984"]], 25th-28th August 2006 (weekend), buses replaced trains [[template id=cite url="http://en.wikipedia.org/wiki/EastLink%2C_Melbourne"]]. Metlink posted an official [bulletin](http://www.metlinkmelbourne.com.au/latest_news/service_alteration_detail.php?id=3492). Several level crossings were also closed.
-    * The Eastlink works didn't end until midday, resulting in chaos as the train line was closed during peak hour [[template id=cite url="http://www.news.com.au/heraldsun/story/0,21985,20275525-2862,00.html"]].
-    * Connex will receive compensation, but it won't be passed on to commuters [[template id=cite url="http://www.news.com.au/heraldsun/story/0,21985,20285099-661,00.html"]].
+* [Eastlink](http://wiki.microcomaustralia.com.au/transport/private/Eastlink/) bridge works[[!template id=cite url="http://forums.vicsig.net/viewtopic.php?t=984"]], 25th-28th August 2006 (weekend), buses replaced trains [[!template id=cite url="http://en.wikipedia.org/wiki/EastLink%2C_Melbourne"]]. Metlink posted an official [bulletin](http://www.metlinkmelbourne.com.au/latest_news/service_alteration_detail.php?id=3492). Several level crossings were also closed.
+    * The Eastlink works didn't end until midday, resulting in chaos as the train line was closed during peak hour [[!template id=cite url="http://www.news.com.au/heraldsun/story/0,21985,20275525-2862,00.html"]].
+    * Connex will receive compensation, but it won't be passed on to commuters [[!template id=cite url="http://www.news.com.au/heraldsun/story/0,21985,20285099-661,00.html"]].
 
 Soft ground was blamed for the delays:
 
-[[template id=quotation text="""Soft ground unable to hold a giant crane called "Snow White" was the cause of passengers being delayed more than two hours.
+[[!template id=quotation text="""Soft ground unable to hold a giant crane called "Snow White" was the cause of passengers being delayed more than two hours.
 
 [...]
 
@@ -66,7 +66,7 @@ Soft ground was blamed for the delays:
 
 Connex also responded:
 
-[[template id=quotation text="""Connex first learnt around midday on Sunday, 27 August that works being undertaken by the Eastlink project at Heatherdale station might ‘run late’. Connex had no control over these works.
+[[!template id=quotation text="""Connex first learnt around midday on Sunday, 27 August that works being undertaken by the Eastlink project at Heatherdale station might ‘run late’. Connex had no control over these works.
 
     
 
@@ -118,4 +118,4 @@ We fully appreciate the frustration our customers experienced due to delays. Man
 
 [...]""" author="""Connex""" url="""http://www.connexmelbourne.com.au/news_connex/index_full.asp?thm=2&evn=289""" title="""Buses replaced trains between Ringwood and Blackburn""" pub="""Connex""" date="""2006-08-21"""]]
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

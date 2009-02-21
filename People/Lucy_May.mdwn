@@ -1,4 +1,4 @@
-[[template id=photo photo=11128 title="Photo of Lucy May"]]
+[[!template id=photo photo=11128 title="Photo of Lucy May"]]
 
 Born: 28 January 1927<br />
 Melbourne, Victoria, Australia 
@@ -6,12 +6,12 @@ Melbourne, Victoria, Australia
 Married to [[Frank_May]].
 
 Lucy in 1927
-[[template id=photo photo=11127 title="Photo of Lucy May 1927"]]
+[[!template id=photo photo=11127 title="Photo of Lucy May 1927"]]
 
 Lucy and family in 1956
-[[template id=photo photo=11124 title="Photo of Lucy May 1956"]]
+[[!template id=photo photo=11124 title="Photo of Lucy May 1956"]]
 
 Frank's Birthday
-[[template id=photo photo=11125 title="Photo of Frank's Birthday"]]
+[[!template id=photo photo=11125 title="Photo of Frank's Birthday"]]
 
-[[template id=photos_person person=20 link="More photos"]]
+[[!template id=photos_person person=20 link="More photos"]]

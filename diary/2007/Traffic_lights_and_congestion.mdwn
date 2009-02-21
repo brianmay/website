@@ -7,4 +7,4 @@ Today, we were trying to cross at the East side of the Victoria St/Swanston St t
 
 Possibly the first incident was also due to the traffic lights at Victoria st too, but if so I couldn't see any trams in front of the on at Franklin St (the tram line was clear as far as I could see north of Franklin St). It might have cleared before I got there...
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

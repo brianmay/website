@@ -2,4 +2,4 @@
 
 Articles that relate to [Xen](http://en.wikipedia.org/wiki/Xen).
 
-[[inline pages="diary/* and !*/Discussion and link(categories/computers/xen)" show="0" archive="yes" rss="no" atom="no"]]
+[[!inline pages="diary/* and !*/Discussion and link(categories/computers/xen)" show="0" archive="yes" rss="no" atom="no"]]

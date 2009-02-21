@@ -5,27 +5,27 @@ Train arrived flagstaff at 21:12 (two minutes late). Only 1 seat vacant at Flags
 
 Richmond station, 21:19:
 
-[[img image009_richmond.jpg size="800x600" alt="Richmond station"]]
+[[!img image009_richmond.jpg size="800x600" alt="Richmond station"]]
 
 Burnley, 21:21.
 
-[[img image011_burnley.jpg size="800x600" alt="Burnley station"]]
+[[!img image011_burnley.jpg size="800x600" alt="Burnley station"]]
 
 Hawthorn, after being at station for 1 to 2 minutes, 21:24.
 
-[[img image012_hawthorn.jpg size="800x600" alt="Hawthorn station"]]
+[[!img image012_hawthorn.jpg size="800x600" alt="Hawthorn station"]]
 
 Hawthorn, after departure at 21:27.
 
-[[img image013_hawthorn.jpg size="800x600" alt="Leaving Hawthorn"]]
+[[!img image013_hawthorn.jpg size="800x600" alt="Leaving Hawthorn"]]
 
 Box Hill. Passengers leaving train. 21:45.
 
-[[img image015_boxhill.jpg size="800x600" alt="Box Hill station"]]
+[[!img image015_boxhill.jpg size="800x600" alt="Box Hill station"]]
 
 Box Hill. Train leaving. 21:46.
 
-[[img image016_boxhill.jpg size="800x600" alt="Box Hill station"]]
+[[!img image016_boxhill.jpg size="800x600" alt="Box Hill station"]]
 
 Other things I noticed:
 
@@ -44,4 +44,4 @@ Not sure if any of these items are related or not...
 The train arrived at Ringwood at 22:00, and at Upper Ferntree Gully at 22:14.
 
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

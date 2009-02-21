@@ -1,4 +1,4 @@
-[[template id=conference name="MADE2000" begin="2000-05-29" end="2000-05-30"
+[[!template id=conference name="MADE2000" begin="2000-05-29" end="2000-05-30"
 trip="[[Trips/2000/Europe]]"
 location="[Göteborg](http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&msid=109540496108482654955.0004487505f6a63968772&ll=57.693506,11.90609&spn=0.106239,0.232773&z=12)"]]
 

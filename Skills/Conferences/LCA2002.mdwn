@@ -1,4 +1,4 @@
-[[template id=conference name="LCA2002" begin="2002-02-06" end="2002-02-09"
+[[!template id=conference name="LCA2002" begin="2002-02-06" end="2002-02-09"
 location="[Brisbane, Australia](http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&msid=109540496108482654955.0004487505f6a63968772&ll=-27.499231,153.011827&spn=0.01102,0.014548&t=h&z=16)"]]
 
 [LCA2002](http://www.linux.org.au/conf/2002/), Febuary 2002, at The University of Queensland.

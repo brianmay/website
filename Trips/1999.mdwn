@@ -1,1 +1,1 @@
-[[inline pages="Trips/1999/* and !*/Discussion" show="0" rootpage="1999" archive="yes" atom="no" rss="no"]]
+[[!inline pages="Trips/1999/* and !*/Discussion" show="0" rootpage="1999" archive="yes" atom="no" rss="no"]]

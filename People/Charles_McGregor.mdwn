@@ -1,4 +1,4 @@
-[[template id=photo photo=484 title="Photo of Charles McGregor"]]
+[[!template id=photo photo=484 title="Photo of Charles McGregor"]]
 
 Born: 19 March 1908 <br />
 Australia
@@ -8,7 +8,7 @@ Lakes Entrance, Victoria, Australia
 
 Married to [[Jean_McGregor]].
 
-[[template id=photos_person person=12 link="More photos"]]
+[[!template id=photos_person person=12 link="More photos"]]
 
 From the Bairnsdale advertiser:
 

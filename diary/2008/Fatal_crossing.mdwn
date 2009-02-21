@@ -38,4 +38,4 @@ Another person responded to my post on on the PTUA mailing list with:
 <p>So yeah, there are other options, but the information on the ground is often inadequate, and it's often the case that alternative routes can't cope with the displaced people.</p>
 </blockquote>
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

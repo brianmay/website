@@ -21,4 +21,4 @@ Anyway here is the schedule of trains and approximate times at Ringwood, in orde
 
 The first entry and last two are guesses, I wasn't there at the time. The 5:43 was indicated when I pushed the green button at the station (3 minutes after the 5:51), so I assume it was correct.
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

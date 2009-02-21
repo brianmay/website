@@ -1,4 +1,4 @@
-[[template id=trip destination="Mallacoota"
+[[!template id=trip destination="Mallacoota"
 transport="light aircraft" begin="1998-10-23" end="1998-10-25" purpose="holiday"
 map="http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&ll=-37.57642,149.743481&spn=0.078772,0.116386&t=h&z=13&msid=109540496108482654955.000448811d88a61656f46"
 ]]
@@ -9,4 +9,4 @@ stopped briefly for refuelling. At Mallacoota we stayed two nights (23/10/1998
 to 25/10/1998), and went on a cruise. One the way back, the owners of Lakes
 Entrance airport provided as with BBQ lunch.
 
-[[template id=photos_album album=30 link="More photos"]]
+[[!template id=photos_album album=30 link="More photos"]]

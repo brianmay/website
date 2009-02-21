@@ -116,7 +116,7 @@ electricity since about 1pm. A tree at had fallen across the power lines and
 disconnected power to our road. Since it is only our road, it will probably be
 a low priority to fix.
 
-[[template id=photo photo=16734 title="Tree across Alice Street"]]
+[[!template id=photo photo=16734 title="Tree across Alice Street"]]
 
 ## Several days later
 
@@ -127,6 +127,6 @@ road. Waiting?
 
 Power was finally restored to our house at 5pm the following Friday.
 
-[[template id=photos_album album=229 link="More photos"]]
+[[!template id=photos_album album=229 link="More photos"]]
 
-[[tag categories/weather]]
+[[!tag categories/weather]]

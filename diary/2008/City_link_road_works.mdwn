@@ -15,4 +15,4 @@ left hand lane was closed.  I could not see any reason for this lane to be
 closed, except for the fact there were vehicles parked in it to warn motorists
 that the lane was closed.
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

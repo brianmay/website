@@ -23,4 +23,4 @@ What the hell was this about? Somebody forgot their bag?
 
 Just to add insult, for anybody who (is silly enough) to use the bus from my station, because the train was running late, the bus was impatient to leave and left as soon as the first people from the train got on - too bad if you were on the other end of the train... 1 hour until the next bus...
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

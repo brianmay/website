@@ -55,4 +55,4 @@ Arrived around 8:57. In time to catch the Fishermens Bend bus (235)
 which was running 5 minutes late (9:05 instead of 9:00).
 
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

@@ -1,4 +1,4 @@
-[[template id=trip destination="Paynesville"
+[[!template id=trip destination="Paynesville"
 transport="light aircraft" begin="1999-12-05" end="1999-12-05" purpose="holiday"
 map="http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&ll=-37.912039,147.7353&spn=0.039208,0.058193&t=h&z=14&msid=109540496108482654955.000448811d88a61656f46"
 ]]

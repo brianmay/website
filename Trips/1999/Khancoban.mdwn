@@ -1,4 +1,4 @@
-[[template id=trip destination="Khancoban"
+[[!template id=trip destination="Khancoban"
 transport="light aircraft" begin="1999-02-12" end="1999-02-14" purpose="holiday"
 map="http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&ll=-36.20356,148.113213&spn=0.080202,0.116386&t=h&z=13&msid=109540496108482654955.000448811d88a61656f46"
 ]]
@@ -72,4 +72,4 @@ them.
 Overall, the trip  was very enjoyable, and hopefully will  help me in my
 progress to get my GFPT and eventually PPL.
 
-[[template id=photos_album album=33 link="More photos"]]
+[[!template id=photos_album album=33 link="More photos"]]

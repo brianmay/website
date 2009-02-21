@@ -1,4 +1,4 @@
-[[template id=photo photo=11123 title="Photo of St Leeor's Nursing Home"]]
+[[!template id=photo photo=11123 title="Photo of St Leeor's Nursing Home"]]
 
 Notes: As the source of this page was Grandma's memory, details such as names
 may be incorrect.
@@ -75,7 +75,7 @@ when she recites this story.
 
 ## Sister Barnes
 
-[[template id=photo photo=11120 title="Photo of Sister Barnes"]]
+[[!template id=photo photo=11120 title="Photo of Sister Barnes"]]
 
 The head matron. Also the owner. She was Olive Leeor Anderson, and then had her
 name changed to Olive Leeor Barnes when she married Frank Leeor Barnes.
@@ -90,7 +90,7 @@ sheets for her wedding, a crystal cheese dish, and a set of saucepans.
 
 ## Jean Anderson
 
-[[template id=photo photo=11122 title="Photo of Jean Anderson"]]
+[[!template id=photo photo=11122 title="Photo of Jean Anderson"]]
 
 She was the only one in her family who wasn't a trained nurse, yet she could do
 just as good a job, if not better. She was a far more sympathetic person. She
@@ -110,7 +110,7 @@ frequently ask "Have you been to the Palais to dance?"
 
 ## Caunter, Rhoda, Clarke, and Thompson
 
-[[template id=photo photo=11121 title="Photo of Caunter, Rhoda, Clarke, and Thompson"]]
+[[!template id=photo photo=11121 title="Photo of Caunter, Rhoda, Clarke, and Thompson"]]
 
 Unfortunately, Mrs Caunter developed breast cancer. She had to have the breast
 removed. As such, she had the big operation at Cabrini hospital in Malvern.
@@ -147,7 +147,7 @@ afterwards.
 
 ## Mrs. Newell
 
-[[template id=photo photo=11119 title="Photo of Mrs. Newell"]]
+[[!template id=photo photo=11119 title="Photo of Mrs. Newell"]]
 
 Mrs. Newell went to University in England. She was born in Australia but would
 not acknowledge it. She loved English poetry, and could recite poetry from
@@ -157,7 +157,7 @@ binding.
 
 ## Mrs Clarke
 
-[[template id=photo photo=11118 title="Photo of Mrs. Clarke"]]
+[[!template id=photo photo=11118 title="Photo of Mrs. Clarke"]]
 
 Mrs. Clarke, 2rd from right in group photo, didn't like taking her clothes
 clothes off, but put her nighty on top. She had white hair.

@@ -70,4 +70,4 @@ I got home at 11:05, 2 hours after I left.
 
 Really not happy about the 30 minute wait for the next train at Ringwood.
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

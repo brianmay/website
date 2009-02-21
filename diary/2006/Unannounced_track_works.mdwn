@@ -11,4 +11,4 @@ Later on I found some <a href="http://www.yarratrams.com.au/default.jsp?xcid=149
 
 The Yarra Trams employees I spoke to on the night never mentioned anything about an official announcement, the bus replacement service, or that trams would be affected the entire week.
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

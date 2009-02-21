@@ -27,4 +27,4 @@ Some thoughts concerning my trip back:
 <li>they still haven't opened the walkway to the East of Blackburn station yet - not sure why - the underground walkway was kind of cramped making it difficult for faster walkers to get past the slower walkers.</li>
 </ul>
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

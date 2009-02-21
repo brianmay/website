@@ -27,7 +27,7 @@ before Laburnum station) for about 5 minutes waiting for the Blackburn
 train, which presumably was running late and had priority where the two 
 tracks merge into one.
 
-[[template id=quotation 
+[[!template id=quotation 
 text="""Hello,
 
 Normally I catch the 5:00pm Melbourne Central train. It is due to arrive 
@@ -84,7 +84,7 @@ response. Lets see what happens...
 
 Later: I got a response from Connex:
 
-[[template id=quotation 
+[[!template id=quotation 
 text="""Case no: lm/006687
 
 27 August 2008
@@ -139,4 +139,4 @@ author="""Luke Morrison"""
 title="""Connex"""
 date="""2008-08-27""" pub="""E-Mail"""]]
 
-[[tag categories/public_transport]]
+[[!tag categories/public_transport]]

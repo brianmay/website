@@ -5,4 +5,4 @@ This morning when driving, I lost control of the car and spun 270 degrees and re
 
 Yesterday we checked the brakes in the car, and today I swapped the rear right hand wheel with the spare wheel, as the rear wheel was lacking in tread, but the spare tear is brand new.
 
-[[tag categories/private_transport]]
+[[!tag categories/accidents categories/private_transport]]

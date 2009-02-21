@@ -2,5 +2,5 @@
 
 Categories that I care to write about.
 
-[[inline pages="diary/categories/* and !*/discussion" show="0" archive="yes" rss="no" atom="no" sort="title"]]
+[[!inline pages="diary/categories/* and !*/discussion" show="0" archive="yes" rss="no" atom="no" sort="title"]]
 

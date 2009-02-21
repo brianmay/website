@@ -1,5 +1,5 @@
-[[template id=trip destination="Coffs Harbour"
+[[!template id=trip destination="Coffs Harbour"
 transport="car" begin="2002-01-21" end="2002-01-21" purpose="holiday"
 map="http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&msid=109540496108482654955.000448811d88a61656f46&ll=-30.28075,153.128643&spn=0.042916,0.058193&t=h&z=14"]]
 
-[[template id=photos_album album=96 link="More photos"]]
+[[!template id=photos_album album=96 link="More photos"]]

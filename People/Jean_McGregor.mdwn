@@ -1,15 +1,15 @@
-[[template id=photo photo=11131 title="Photo of Jean McGregor"]]
+[[!template id=photo photo=11131 title="Photo of Jean McGregor"]]
 
 Born: 19 March 1918, Australia.
 
 Died: 23 November 2007, Upper Beaconsfield, Australia.
 
 Funeral: 27th November 2007, St Thomas Church, Upper Ferntree Gully; see
-[[template id=photos_album album=147 link="photos"]].
+[[!template id=photos_album album=147 link="photos"]].
 
 Married to [[Charles_McGregor]].
 
-[[template id=photos_person person=11 link="More photos"]]
+[[!template id=photos_person person=11 link="More photos"]]
 
 ## School
 Grandma says she went to <a href="http://www.maps.vic.edu.au/princip.htm">Mont
@@ -85,4 +85,4 @@ Additional <a
 href="http://wiki.microcomaustralia.com.au/Jean_McGregor/">rough notes</a>
 are available.
 
-[[template id=photos_album album=11 link="More photos"]]
+[[!template id=photos_album album=11 link="More photos"]]

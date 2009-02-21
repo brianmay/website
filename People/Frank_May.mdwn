@@ -1,4 +1,4 @@
-[[template id=photo photo=11125 title="Photo of Frank May"]]
+[[!template id=photo photo=11125 title="Photo of Frank May"]]
 
 Born: 1 May 1926 <br />
 Melbourne, Victoria, Australia
@@ -8,7 +8,7 @@ Frankston Hospital, Frankston, Victoria, Australia
 
 Married to [[Lucy_May]].
 
-[[template id=photos_person person=21 link="More photos"]]
+[[!template id=photos_person person=21 link="More photos"]]
 
 Frank as he was known, was born at home at 27 Courang Road, Glen Iris, a
 beloved second son to John May and Hazel Shaw. He was christened at St Paul’s

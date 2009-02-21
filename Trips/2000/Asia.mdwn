@@ -1,4 +1,4 @@
-[[template id=trip destination="China and Singapore"
+[[!template id=trip destination="China and Singapore"
 transport="airliner" begin="2000-08" end="2000-08" purpose="conference"
 map="http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&msid=109540496108482654955.000448811d88a61656f46&ll=39.919216,116.415253&spn=0.609824,0.931091&t=h&z=10"]]
 
@@ -40,7 +40,7 @@ think it was well worth the effort. This, I believe is one of the biggest
 highlights of my trip to Beijing. On the same tour, I also saw a Cloisonne
 manufacturer, and visited an ancient underground burial site.
 
-[[template id=photos_album album=18 link="More photos"]]
+[[!template id=photos_album album=18 link="More photos"]]
 
 ## Singapore
 
@@ -49,4 +49,4 @@ cooler weather, but Singapore seemed just as hot and (more importantly) as
 humid as Beijing. I was told as one point that the humidity reached 95%. I went
 on a tour of the Sentosa island and some parts of the city.
 
-[[template id=photos_album album=21 link="More photos"]]
+[[!template id=photos_album album=21 link="More photos"]]
