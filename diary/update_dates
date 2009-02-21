@@ -1,0 +1,36 @@
+#!/usr/bin/perl -w
+use strict;
+use Time::Local;
+use Storable;
+
+my $index=Storable::retrieve("../.ikiwiki/indexdb");
+
+for my $file (@ARGV) {
+        open(FILE,"<$file") or die "Cannot open $file for reading: $!";
+
+        my $line1 = <FILE>;
+        my $line2 = <FILE>;
+
+        close(FILE) or die "Cannot close $file: $!";
+
+        my ($title) = $line1 =~ /^# ?(.*)$/;
+        my ($date) = $line2 =~ /^Date: (.*)$/;
+        if (!defined($date)) { die "Cannot find date string in $file" }
+
+        my ($yyyy, $mo, $dd, $hh, $mm, $ss) = $date =~ /(\d+)-(\d+)-(\d+) (\d+):(\d+):(\d+)/;
+        if (!defined($ss)) { die "Cannot parse date string '$date' for $file" }
+
+        my $epoch = timelocal($ss, $mm, $hh, $dd, $mo-1, $yyyy);
+
+        print "$title $date $epoch\n";
+#        print localtime($epoch)."\n\n";
+
+
+        if (!defined($index->{"page"}{"diary/$file"})) {
+                die "$file not defined in index!";
+        }
+
+        $index->{"page"}{"diary/$file"}{"ctime"} = $epoch;
+}
+
+Storable::lock_nstore($index, "../.ikiwiki/indexdb");

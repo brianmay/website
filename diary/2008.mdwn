@@ -1,2 +1,5 @@
-[[inline pages="diary/2008/* and !*/Discussion and !link(diary)" show="0" archive="yes" rss="no" atom="no"]]
-[[tag diary]]
+# Diary in 2008
+
+Things that I cared to write about in 2008.
+
+[[inline pages="diary/2008/* and !*/Discussion and link(categories/*)" show="0" archive="yes" rss="no" atom="no"]]

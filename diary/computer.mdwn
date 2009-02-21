@@ -1,4 +1,0 @@
-Articles that relate to computers.
-
-[[inline pages="diary/* and !*/Discussion and link(computer)"]]
-[[tag diary]]

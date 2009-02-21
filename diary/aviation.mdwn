@@ -1,4 +1,0 @@
-Articles that relate to aviation.
-
-[[inline pages="diary/* and !*/Discussion and link(aviation)"]]
-[[tag diary]]
