@@ -1,0 +1,4 @@
+<blockquote>
+<TMPL_VAR text>
+</blockquote>
+<cite>— <TMPL_VAR author>, "[<TMPL_VAR title>](<TMPL_VAR url>)" *<TMPL_VAR pub>*, <TMPL_VAR date></cite>
