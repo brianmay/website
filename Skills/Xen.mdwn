@@ -1,0 +1,15 @@
+With Xen it is possible to setup multiple virtual computers on one physical computer running Linux. This has a number of advantages:
+
+* Each guest can be running a different OS. For example some can be running Debian, others can be running Centos.
+* Each guest can be administrated seperately.
+* Each guest can have different network access.
+
+There are some reasons that are not good reasons for choosing a virtual host over a real host.
+
+* Security. There may be security holes that allow you to access the root
+domain (DOM0) from within a guest domain. Once an attacker
+has root access to the root domain, he/she has access to everything.
+* Less administration. Each virtual box still needs to be administrated
+seperately, so using Xen doesn't remove any of the administration tasks required.
+
+I have documented some of my [[Xen experiences|diary/categories/computers/xen]].

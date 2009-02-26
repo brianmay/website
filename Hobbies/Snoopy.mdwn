@@ -33,3 +33,4 @@ Through my work in maintaining snoopy, I have attending meant
 * [[Skills/Asterisk]]
 * [[Skills/Linux]]
 * [[Skills/Mythtv]]
+* [[Skills/Xen]]
