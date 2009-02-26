@@ -12,7 +12,12 @@ several other analogue extensions. I also use the TDM400 card with 2 FXO
 (exchange ports) and 2 FXS (extension) ports. My server is running Debian
 stable (sarge), using Asterisk I recompiled from unstable (sid).
 
-Also see my [wiki page](http://wiki.microcomaustralia.com.au/Brian/Asterisk.html).
+Initially I had Asterisk running under a [[Xen]] DOM0 on [[Hobbies/snoopy]],
+but unfortunately this suffered from serious latency issues. It was also rather
+insecure. I have since transferred it to a dedicated
+[IP04](http://www.rowetel.com/ucasterisk/ip04.html) box.
+
+Also see my [wiki page](http://wiki.microcomaustralia.com.au/computers/Asterisk/).
 
 ## Benefits
 
