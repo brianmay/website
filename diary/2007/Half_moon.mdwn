@@ -6,7 +6,7 @@ two separate accidents on Mount Dandenong Road, the same corner
 I [[lost_control]] and as [[another_car]]. The road was closed off for most
 of the afternoon.
 
-[[!img mx_20070404_001.jpg size="800x600" alt="Half Moon needs full fix"]]
+[[!img mx_20070404_001.jpg size="400x" alt="Half Moon needs full fix"]]
 
 
 [[!tag categories/accidents categories/private_transport]]
