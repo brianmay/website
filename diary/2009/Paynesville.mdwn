@@ -1,6 +1,7 @@
 # Paynesville
 
-Earlier May this year, we went to Paynesville to fix up Grandma's old house.
+Earlier May this year, we went to [[!template id=photos_place place=37
+link="Paynesville"]] to fix up Grandma's old house.
 
 [[!template id=photo photo=25965 title="Grandma's unit"]]
 
