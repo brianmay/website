@@ -61,7 +61,9 @@ is positioned at, glare could be an issue.
 
 ## DRM
 
-This is a very contentious issue. I would argue though that DRM doesn't do anything to
+[Digital Rights
+Management](http://en.wikipedia.org/wiki/Digital_rights_management). This is a
+very contentious issue. I would argue though that DRM doesn't do anything to
 protect the rights of the publishers.
 
 * There are claims that people have broken the DRM and can remove the DRM from
