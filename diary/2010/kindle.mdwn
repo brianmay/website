@@ -54,7 +54,7 @@ After the complaint with DHL they responded with:
 
 ## Screen
 
-This is an [E-Paper](http://en.wikipedia.org/wiki/Electronic_paper). Unlike a conventional
+This is an [E-Paper](http://en.wikipedia.org/wiki/Electronic_paper) display. Unlike a conventional
 monitor, you are not staring directly at a light that is pointed into your eyes all the
 time. Unfortunately, the surface does seem to be reflective so depending on the angle it
 is positioned at, glare could be an issue.
@@ -80,7 +80,7 @@ if I want to buy it or not.
 * I can get my company to pay for a book that is related to my work, and the
 company owns the book so anybody else at work who wants to read the book can do so.
 
-Now of these are possible with e-books purchased from Amazon's store.
+None of these are possible with e-books purchased from Amazon's store.
 
 Unlike other DRM schemes however, the Kindle allows you to copy content from other
 websites (via USB), provided it is a compatable format. There are some websites
@@ -117,6 +117,9 @@ paper (e.g. A4) with multiple columns the type ends up being very small even on 
 Due to the slow refresh rate of the screen it becomes inconvenient to try and scroll around the
 page. If the PDF file was formatted for a smaller page size then it is ok. It is also
 worth noting it is not possible to annotate PDF content.
+
+As far as I can tell, HTML format is not supported except with the built in web
+browser.  So you can not use html format ebooks.
 
 According to the documentation, Amazon also offer a feature where I can turn
 other formats (e.g. word and HTML) into AZW format, free of charge, by emailing
