@@ -85,6 +85,8 @@ Now of these are possible with e-books purchased from Amazon's store.
 Unlike other DRM schemes however, the Kindle allows you to copy content from other
 websites (via USB), provided it is a compatable format. There are some websites
 that allow retrieving books (especially public domain books) free of charge.
+Unfortunately there are many books, especially non-fiction, that are only available
+from Amazon's store.
 
 Also Amazon has received bad publicity over its ability to [remove content
 remotely](http://en.wikipedia.org/wiki/Kindle#Remote_content_removal). While
@@ -98,9 +100,12 @@ books, so why should E-Books be considered any different?
 
 ## Formats
 
-The Kindle supports different formats for files:
+The Kindle supports different [formats](http://en.wikipedia.org/wiki/Kindle#File_formats) for files:
 
-* AZW format. The DRM format Amazon provides books in you purchase from there store.
+* Unprotected Mobipocket.
+* AZW format. The DRM format Amazon provides books in you purchase from there store. Not that
+some files with the .azw extension appear to be unprotected Mobipocket files, as such
+I wonder if all AZW files are just Mobipocket format with DRM encryption.
 * Text format. Text format is good, although obviously you don't get the pictures. Text format
 comes out better if the Kindle is allowed to do the word wrapping itself. Unfortunately some text
 books come with the lines prewrapped, and this looks awful if the text size is too large and the
@@ -112,7 +117,6 @@ paper (e.g. A4) with multiple columns the type ends up being very small even on 
 Due to the slow refresh rate of the screen it becomes inconvenient to try and scroll around the
 page. If the PDF file was formatted for a smaller page size then it is ok. It is also
 worth noting it is not possible to annotate PDF content.
-* Unprotected Mobipocket. Not seen these myself.
 
 According to the documentation, Amazon also offer a feature where I can turn
 other formats (e.g. word and HTML) into AZW format, free of charge, by emailing
@@ -132,6 +136,9 @@ worthless to purchase some books, e.g.  books on learning another language.
 
 This would be OK if the e-book was cheaper, however many e-books
 (especially non-fiction) have similar inflated prices to the paper books.
+
+I don't know if these problems are due to the format used or the process of
+coverting the book to this format.
 
 ## Local restrictions
 
