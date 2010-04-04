@@ -175,13 +175,19 @@ Wrong. First problem is the Airservices Australia provide the document in separa
 PDF files for each and every airport. The Kindle doesn't cope very well with having hundreds
 of closely related PDF files, as everything is displayed on a single level.
 
-I tried to join the files to create one PDF file, however found in doing so I lost
-the images. Not only that, but searching through PDF files seems to take ages, making it
-very difficult to find details for the desired airport quickly and easily.
+I tried to join the files to create one PDF file. On my first attempt I used
+pdfjoin, part of the pdfjam package in Ubuntu. however found in doing so I lost
+the images. Not only that, but searching through PDF files seems to take ages,
+making it very difficult to find details for the desired airport quickly and
+easily.
 
-As a test I copied several PDF files for several airports individually. The
-text is nice, large, and readable. Unfortunately the airport diagrams have a
-lot of corruption in the rendering which makes it unusable.
+I tried again with pdftk, however it prompts for a password because it thinks
+the source files are encrypted.
+
+As a test I copied several PDF files for several airports individually straight
+from the website. The text is nice, large, and readable. Unfortunately the
+airport diagrams have a lot of corruption in the rendering which makes it
+unusable.
 
 I am not sure what the solution is here, but unfortunately, using the ERSA on
 the Kindle is not feasible at present time.
