@@ -1,0 +1,5 @@
+# E-Books and E-Book readers
+
+Articles that relate to E-Books and E-Book readers
+
+[[!inline pages="diary/* and !*/Discussion and link(categories/ebooks)" show="0" archive="yes" rss="no" atom="no"]]
