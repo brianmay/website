@@ -49,4 +49,4 @@ Other trips:
 * [[2006/New_Zealand]] for [[Skills/Conferences/LCA2006]] (2006-01).
 * [[2007/Sydney]] for [[Skills/Conferences/LCA2007]] (2007-01)
 * [[diary/2008/Townsville]] (2008-09)
-* [[!template id=photos_album album=639 link="Brisbane"]] for [[!template id=photos_album album=640 link="LCA2011"]] (2007-01)
+* [[!template id=photos_album album=639 link="Brisbane"]] for [[!template id=photos_album album=640 link="LCA2011"]] (2011-01)
