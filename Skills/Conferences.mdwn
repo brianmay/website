@@ -11,3 +11,6 @@ Conferences I have attended:
 * [[LCA2006]], Dunedin, New Zealand, 2006-01-23.
 * [[LCA2007]], Sydney, New South Wales, 2007-01-15.
 * [[LCA2008]], Melbourne, 2008-01-28.
+* [[!template id=photos_album album=270 link="LCA2009"]], Hobart, 2009-01-19
+* [[!template id=photos_album album=336 link="LCA2010"]], Wellington, New Zealand, 2010-01-18.
+* [[!template id=photos_album album=640 link="LCA2011"]], Brisbance 2011-01-23

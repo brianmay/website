@@ -1,4 +1,4 @@
-I administrate this computer, snoopy.apana.org.au. This computer has a long
+I use to maintain a computer called snoopy.apana.org.au. This computer has a long
 history. Initially I run a [Bulletin Board System
 (BBS)](http://en.wikipedia.org/wiki/BBS), for a local computer club.
 
@@ -28,9 +28,7 @@ alone the new rates. The bottom line is that the HUB is no closed, and APANA in
 Melbourne only exists as DNS entries and IP addresses.
 
 Through my work in maintaining snoopy, I have attending meant
-[[Skills/Conferences]] and learnt many [[Skills]] such as:
+[[Skills/Conferences]] and learnt many [[Skills]].
 
-* [[Skills/Asterisk]]
-* [[Skills/Linux]]
-* [[Skills/Mythtv]]
-* [[Skills/Xen]]
+Now, I still maintain all the servers that use be be on snoopy, however now I
+use virtual guests running on a virtual host instead of snoopy.

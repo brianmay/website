@@ -24,6 +24,7 @@ Flyaways:
 * [[!template id=photos_album album=94 link="Nav Trial Day (2005)"]]
 * [[!template id=photos_album album=151 link="Mount Dandenong (2008)"]]
 * [[!template id=photos_album album=242 link="Melbourne (2008)"]]
+* [[!template id=photos_album album=475 link="Lake Eyre (2010)"]]
 
 Other trips:
 
@@ -38,3 +39,4 @@ Other trips:
 * [[2006/New_Zealand]]
 * [[2007/Sydney]]
 * [[diary/2008/Townsville]]
+* [[!template id=photos_album album=639 link="Brisbane 2011"]], for [[!template id=photos_album album=640 link="LCA2011"]]
