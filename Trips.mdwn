@@ -15,7 +15,7 @@ Flyaways:
 * [[!template id=photos_album album=81 link="Latrobe Valley"]] (2000-11)
 * [[!template id=photos_album album=551 link="Mount Dandenong"]] (2001-02)
 * [[2001/Lake_Mungo]] (2001-06)
-* [[1998/King_Island]] (2001-09 or 1998-12-06?).
+* [[2001/King_Island]] (2001-09).
 * [[2001/Flinders_Island]] (2001-11)
 * [[2002/Robe]] (2002-03)
 * [[2004/Merimbula]] (2004-03)
