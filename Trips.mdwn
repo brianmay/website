@@ -34,19 +34,19 @@ Flyaways:
 * [[!template id=photos_album album=258 link="Nav Trial Day"]] (2008-12)
 * [[!template id=photos_album album=338 link="Mount Dandenong"]] (2010-04)
 * [[!template id=photos_album album=343 link="City"]] (2010-05)
-* [[!template id=photos_album album=475 link="Lake Eyre"]] (2010)
+* [[!template id=photos_album album=475 link="Lake Eyre"]] (2010-07)
 
 Other trips:
 
-* [[2000/Europe]]: Sweden, Holland and England (2000).
-* [[2000/Asia]]: China and Singapore (2000).
-* [[2000/Whitsunday_Islands]]: South Mole Island (2000).
-* [[!template id=photos_album album=105 link="Grampians"]] (2001)
-* [[2002/Coffs_Harbour]] (2002)
-* [[2003/Marysville]] (2003)
-* [[2005/Grampians]] (2005)
-* [[2005/Townsville]] (2005)
-* [[2006/New_Zealand]] for [[Skills/Conferences/LCA2006]] (2006).
-* [[2007/Sydney]] (2007)
-* [[diary/2008/Townsville]] (2008)
-* [[!template id=photos_album album=639 link="Brisbane"]] for [[!template id=photos_album album=640 link="LCA2011"]] (2007)
+* [[2000/Europe]]: Sweden, Holland and England (2000-06).
+* [[2000/Asia]]: China and Singapore (2000-08).
+* [[2000/Whitsunday_Islands]]: South Mole Island (2000-09).
+* [[!template id=photos_album album=105 link="Grampians"]] (2001-09)
+* [[2002/Coffs_Harbour]] (2002-01)
+* [[2003/Marysville]] (2003-07)
+* [[2005/Grampians]] (2005-06)
+* [[2005/Townsville]] (2005-08)
+* [[2006/New_Zealand]] for [[Skills/Conferences/LCA2006]] (2006-01).
+* [[2007/Sydney]] for [[Skills/Conferences/LCA2007]] (2007-01)
+* [[diary/2008/Townsville]] (2008-09)
+* [[!template id=photos_album album=639 link="Brisbane"]] for [[!template id=photos_album album=640 link="LCA2011"]] (2007-01)
