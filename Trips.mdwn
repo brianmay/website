@@ -2,41 +2,51 @@ Trips I have been on.
 
 Flyaways:
 
-* [[1998/Mallacoota]]
-* [[1998/King_Island]]
-* [[1999/Khancoban]]
-* [[1999/Lake_Mungo]]
-* [[!template id=photos_album album=82 link="Mansfield (2000)"]]
-* [[!template id=photos_album album=35 link="Nav Trial Day (2000)"]]
-* [[1999/Grampians]]
-* [[1999/Paynesville]]
-* [[2000/Iandra]]
-* [[!template id=photos_album album=81 link="Latrobe Valley (2000)"]]
-* [[2001/Lake_Mungo]]
-* [[2001/Flinders_Island]]
-* [[2002/Robe]]
-* [[2004/Merimbula]]
-* [[!template id=photos_album album=89 link="Nav Trial Day (2004)"]]
-* [[2004/Tocumwal]]
-* [[!template id=photos_album album=90 link="Nav Trial Day (2004)"]]
-* [[!template id=photos_album album=92 link="Point Cook Airshow (2005)"]]
-* [[!template id=photos_album album=93 link="Mount Dandenong (2005)"]]
-* [[!template id=photos_album album=94 link="Nav Trial Day (2005)"]]
-* [[!template id=photos_album album=151 link="Mount Dandenong (2008)"]]
-* [[!template id=photos_album album=242 link="Melbourne (2008)"]]
-* [[!template id=photos_album album=475 link="Lake Eyre (2010)"]]
+* [[1998/Mallacoota]] (1998-10)
+* [[1999/Khancoban]] (1999-02)
+* [[!template id=photos_album album=546 link="Nav Trial Day"]] (1999-04)
+* [[!template id=photos_album album=549 link="Wangaratta"]] (1999-04)
+* [[1999/Lake_Mungo]] (1999-05)
+* [[1999/Grampians]] (1999-10)
+* [[1999/Paynesville]] (1999-12)
+* [[!template id=photos_album album=82 link="Mansfield"]] (2000-03)
+* [[!template id=photos_album album=35 link="Nav Trial Day"]] (2000-10)
+* [[2000/Iandra]] (2000-11)
+* [[!template id=photos_album album=81 link="Latrobe Valley"]] (2000-11)
+* [[!template id=photos_album album=551 link="Mount Dandenong"]] (2001-02)
+* [[2001/Lake_Mungo]] (2001-06)
+* [[1998/King_Island]] (2001-09 or 1998-12-06?).
+* [[2001/Flinders_Island]] (2001-11)
+* [[2002/Robe]] (2002-03)
+* [[2004/Merimbula]] (2004-03)
+* [[!template id=photos_album album=89 link="Nav Trial Day"]] (2004-04)
+* [[2004/Tocumwal]] (2004-10)
+* [[!template id=photos_album album=90 link="Nav Trial Day"]] (2004-10)
+* [[!template id=photos_album album=92 link="Point Cook Airshow"]] (2005-02)
+* [[!template id=photos_album album=173 link="Glenmaggie"]] (2005-02)
+* [[!template id=photos_album album=93 link="Mount Dandenong"]] (2005-03)
+* [[!template id=photos_album album=94 link="Nav Trial Day"]] (2005-05)
+* [[!template id=photos_album album=203 link="Mount Dandenong"]] (2005-12)
+* [[!template id=photos_album album=241 link="Nav Trial Day"]] (2006-09)
+* [[!template id=photos_album album=151 link="Mount Dandenong"]] (2008-03)
+* [[!template id=photos_album album=242 link="Melbourne"]] (2008-08)
+* [[!template id=photos_album album=300 link="Yarra Valley"]] (2008-08)
+* [[!template id=photos_album album=258 link="Nav Trial Day"]] (2008-12)
+* [[!template id=photos_album album=338 link="Mount Dandenong"]] (2010-04)
+* [[!template id=photos_album album=343 link="City"]] (2010-05)
+* [[!template id=photos_album album=475 link="Lake Eyre"]] (2010)
 
 Other trips:
 
-* [[2000/Europe]]: Sweden, Holland and England.
-* [[2000/Asia]]: China and Singapore.
-* [[2000/Whitsunday_Islands]]: South Mole Island.
-* [[!template id=photos_album album=105 link="Grampians (2001)"]]
-* [[2002/Coffs_Harbour]]
-* [[2003/Marysville]]
-* [[2005/Grampians]]
-* [[2005/Townsville]]
-* [[2006/New_Zealand]]
-* [[2007/Sydney]]
-* [[diary/2008/Townsville]]
-* [[!template id=photos_album album=639 link="Brisbane 2011"]], for [[!template id=photos_album album=640 link="LCA2011"]]
+* [[2000/Europe]]: Sweden, Holland and England (2000).
+* [[2000/Asia]]: China and Singapore (2000).
+* [[2000/Whitsunday_Islands]]: South Mole Island (2000).
+* [[!template id=photos_album album=105 link="Grampians"]] (2001)
+* [[2002/Coffs_Harbour]] (2002)
+* [[2003/Marysville]] (2003)
+* [[2005/Grampians]] (2005)
+* [[2005/Townsville]] (2005)
+* [[2006/New_Zealand]] for [[Skills/Conferences/LCA2006]] (2006).
+* [[2007/Sydney]] (2007)
+* [[diary/2008/Townsville]] (2008)
+* [[!template id=photos_album album=639 link="Brisbane"]] for [[!template id=photos_album album=640 link="LCA2011"]] (2007)

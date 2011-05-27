@@ -4,3 +4,5 @@ map="http://maps.google.com.au/maps/ms?ie=UTF8&hl=en&msa=0&ll=-37.912039,147.735
 ]]
 
 At the airport we rang a Taxi to take us to Paynesville.
+
+Photos: [[!template id=photos_album album=492 link="Bairnsdale"]]
