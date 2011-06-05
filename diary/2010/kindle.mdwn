@@ -30,27 +30,35 @@ cardboard box, and my Kindle was still intact.
 
 After the complaint with DHL they responded with:
 
-    We offer our most sincere apology for the
-    inconvenience caused by the delivery of this
-    shipment of electronics left in the rain.
+<blockquote>
+<p>
+We offer our most sincere apology for the
+inconvenience caused by the delivery of this
+shipment of electronics left in the rain.
+</p>
 
-    While our contract with Amazon does stipulate
-    that shipments can be left without a
-    signature, this should only be done after
-    confirming that noone is home to sign for the
-    shipment. The shipments are also not to be
-    left in clear view of the road, and in a safe
-    area if noone is home to sign for the
-    shipment.  I have forwarded your Airway bill
-    details to the management team of our Third
-    Party associates to look into this matter
-    with the driver concerned.
+<p>
+While our contract with Amazon does stipulate
+that shipments can be left without a
+signature, this should only be done after
+confirming that noone is home to sign for the
+shipment. The shipments are also not to be
+left in clear view of the road, and in a safe
+area if noone is home to sign for the
+shipment.  I have forwarded your Airway bill
+details to the management team of our Third
+Party associates to look into this matter
+with the driver concerned.
+</p>
 
-    Please be assured that this incident is not
-    indicative of the high level of service
-    normally provided by DHL.  We trust our
-    future business dealings pursue a trouble
-    free course.
+<p>
+Please be assured that this incident is not
+indicative of the high level of service
+normally provided by DHL.  We trust our
+future business dealings pursue a trouble
+free course.
+</p>
+</blockquote>
 
 ## Screen
 
