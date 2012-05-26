@@ -46,7 +46,7 @@ the trains to be 5 to 10 minutes late.
 
 This means the connection to the bus service fails because only 7 minutes
 allowance is given for one bus service, and only 3 minutes allowance is given
-for the next bus service. This is very strange time tabling, as the last bus
+for the last bus service. This is very strange time tabling, as the last bus
 could have been scheduled to leave later and still make the train at croydon
 with plenty of time to spare.
 
