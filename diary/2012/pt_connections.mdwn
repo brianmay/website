@@ -40,14 +40,15 @@ to sneak out of meetings early in order to ensure I catch the correct train.
 
 The third problem, and the topic for discussion in this article, is that the
 trains are often running late. Typically there is no reason for the trains to
-run late, they can be late even with relatively few passengers, no excuses are
-given, however it isn't unsual for the trains to be 5 to 10 minutes late.
+run late, no train in front to slow them down, and few passengers to get off at
+the majority of stations. No excuses are given. Regardless, it isn't unsual for
+the trains to be 5 to 10 minutes late.
 
 This means the connection to the bus service fails because only 7 minutes
 allowance is given for one bus service, and only 3 minutes allowance is given
-for the next bus service. This is very strange time tabling, as the bus could
-have been scheduled to leave later and still make the train at croydon with
-plenty of time to spare.
+for the next bus service. This is very strange time tabling, as the last bus
+could have been scheduled to leave later and still make the train at croydon
+with plenty of time to spare.
 
 These are connections that are officially documented in the official timetables.
 
