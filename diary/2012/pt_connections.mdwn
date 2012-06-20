@@ -13,7 +13,8 @@ have not been properly thought out. Here is a table. The columns in order are:
 2. uftg: the next column is when it is suppose to arrive at UFTG station.
 3. bus: when the bus (if any) is due to depart.
 4. wait: how long the waiting time is between train and bus.
-5. croydon wait: how long you would have to wait for the train back to the city at Croydon (not that I travel this far).
+5. croydon wait: how long you would have to wait for the train back to the city
+at Croydon (not that I travel this far).
 
 | fs    | uftg  | bus   | wait | croydon wait |
 |-------|-------|-------|------|-----|
@@ -55,10 +56,10 @@ These are connections that are officially documented in the official timetables.
 Also I can't leave on the earlier train, this would mean leaving my meetings
 even earlier, with a long useless waiti, in the freezing cold, at UFTG station.
 
-I have complained to the various operators about the problem, this is a summary of the
-communications I have had so far. I have not added any comments except in the conclusion
-section, just because I haven't commented on something doesn't mean to  imply that
-I agree or disagree with what was said.
+I have complained to the various operators about the problem, this is a summary
+of the communications I have had so far. I have not added any comments except
+in the conclusion section, just because I haven't commented on something
+doesn't mean to  imply that I agree or disagree with what was said.
 
 Furthermore, this isn't a comphrensive list of issues I have encountered with
 this bus connection by any means.
@@ -181,9 +182,17 @@ Ventura Bus, Metro Trains, and DOT.
 2011-07-04: Ventura Bus responded.
 
 > Hello Mr May,
-> I have read your email and will respond only to the bus related questions, the only thing I can suggest in relation to how do you know if the bus has gone is not to move away from the bus stop and ring the number  of the depot on 97521444 to find out where the bus is, I know you ran to check down the road to check to see if the bus had gone but as you know that can cause other issues by missing a late running bus by not being at the stop.
-> We understand the inconvenience of missing the last bus so if you suspect you are running late or the moment you know you are running late please call and we hold back the bus for you.
-> We will make every effort to assist you in getting home but please understand that we can not control all the issues that you have outlined in your email.
+> I have read your email and will respond only to the bus related questions,
+> the only thing I can suggest in relation to how do you know if the bus has
+> gone is not to move away from the bus stop and ring the number  of the depot
+> on 97521444 to find out where the bus is, I know you ran to check down the
+> road to check to see if the bus had gone but as you know that can cause other
+> issues by missing a late running bus by not being at the stop.  We understand
+> the inconvenience of missing the last bus so if you suspect you are running
+> late or the moment you know you are running late please call and we hold back
+> the bus for you.  We will make every effort to assist you in getting home but
+> please understand that we can not control all the issues that you have
+> outlined in your email.
 >
 > Regards
 > Alan Floyd
@@ -196,13 +205,14 @@ Ventura Bus, Metro Trains, and DOT.
 > I have been on holidays,
 > This is why I has taken me so long to reply
 >
-> Your train issue is a Met Link problem, We are not running the trains.
-> If the Station or yourself ring the Monbulk Depot we can hold the bus for the train.
-> I do this all the time for the 695 service, because Belgrave station ring me.
-> If you are not shore if the bus is running late you can ring the depot on the below number and we can check
-> For you.We run our services on time but , for the passengers to make train connections both ways
-> the stations or the passengers need to  let us know or the  buses will run on time.
-> Best of luck with your train issue's
+> Your train issue is a Met Link problem, We are not running the trains.  If
+> the Station or yourself ring the Monbulk Depot we can hold the bus for the
+> train.  I do this all the time for the 695 service, because Belgrave station
+> ring me.  If you are not shore if the bus is running late you can ring the
+> depot on the below number and we can check For you.We run our services on
+> time but , for the passengers to make train connections both ways the
+> stations or the passengers need to  let us know or the  buses will run on
+> time.  Best of luck with your train issue's
 >
 > Thanks,
 >
@@ -339,14 +349,18 @@ Ventura Bus, Metro Trains, and DOT.
 >
 > RE: Bus 688 Connection
 >
-> Thank you for your correspondence received on 02-July-2011 regarding the above matter and I apologise for the delay in responding.
-
-> I understand that your query regarding the late running of the Ferntree Gully train has been refereed to Metro Trains to answer.  Regarding the ability to
-> tell whether a bus has arrived at a bus stop, the Department of Transport has been working on a bus tracking system which will send information to Metlink
-> so passengers can check the location and arrival time of their bus using the Metlink website or iphone app or by calling Metlink.
-
+> Thank you for your correspondence received on 02-July-2011 regarding the
+> above matter and I apologise for the delay in responding.
+>
+> I understand that your query regarding the late running of the Ferntree Gully
+> train has been refereed to Metro Trains to answer.  Regarding the ability to
+> tell whether a bus has arrived at a bus stop, the Department of Transport has
+> been working on a bus tracking system which will send information to Metlink
+> so passengers can check the location and arrival time of their bus using the
+> Metlink website or iphone app or by calling Metlink.
+>
 > This system is to be implemented after a trial period commencing in early 2012.
-
+>
 > Thank you for raising this matter with the Public Transport Division.
 
 > Yours sincerely
@@ -365,7 +379,14 @@ As of 2012-05-26 there has been no sign of this bus tracking system.
 
 > Hello,
 >
-> Tonight my train was ten minutes late, due to excessive 10 minute wait at ringwood station. Meaning I was worried about meeting the 8:16pm 688 bus from uftg. As instructed, I rang the number given in the attached email. I was told I should have called the croydon depo; he said he would "try" to pass the message on; however the message never reached the driver; it was only due to good luck and a good driver that I caught the bus. Can you please confirm the number I should call? A number of people in the company have specifically told me I should call this number, not the croydon depo.
+> Tonight my train was ten minutes late, due to excessive 10 minute wait at
+> ringwood station. Meaning I was worried about meeting the 8:16pm 688 bus from
+> uftg. As instructed, I rang the number given in the attached email. I was
+> told I should have called the croydon depo; he said he would "try" to pass
+> the message on; however the message never reached the driver; it was only due
+> to good luck and a good driver that I caught the bus. Can you please confirm
+> the number I should call? A number of people in the company have specifically
+> told me I should call this number, not the croydon depo.
 >
 > Thanks
 
@@ -388,16 +409,22 @@ As of 2012-05-26 there has been no sign of this bus tracking system.
 
 > Ok, Thanks for the confirmation.
 >
-> On this occasion I rang as soon as the train left Ringwood station, i.e. 16 minutes before getting to Upper Ferntree Gully station, at about 20:02. Is 16 minutes not enough notice? Unfortunately, I didn't realize the train was going to be delayed so long at Ringwood station (we arrived at first signal before 19:55); and I didn't know how long the train would be delayed for.
+> On this occasion I rang as soon as the train left Ringwood station, i.e. 16
+> minutes before getting to Upper Ferntree Gully station, at about 20:02. Is 16
+> minutes not enough notice? Unfortunately, I didn't realize the train was
+> going to be delayed so long at Ringwood station (we arrived at first signal
+> before 19:55); and I didn't know how long the train would be delayed for.
 >
-> Considering this train and the train to meet the last bus always seem to be delayed every time I have caught them recently, maybe I should call as I am leaving the city, even though the train appears to be on time?
+> Considering this train and the train to meet the last bus always seem to be
+> delayed every time I have caught them recently, maybe I should call as I am
+> leaving the city, even though the train appears to be on time?
 >
 > Thanks
 
 2012-02-09: Ventura Bus replied.
 
-> Yes Brian, Or you could bring this up with Met Link and see if they with change the runout time for the last two buses
-> Best of luck,
+> Yes Brian, Or you could bring this up with Met Link and see if they with
+> change the runout time for the last two buses Best of luck,
 >
 > Thanks,
 >
@@ -408,9 +435,14 @@ As of 2012-05-26 there has been no sign of this bus tracking system.
 
 > Hello Malcolm.
 >
-> Unfortunately it seems that ringing up US Bus lines isn't an option when trying to meet the last bus of the day. it seems like both of the depos close sometime before 9:12pm when this bus leaves Upper Ferntree Gully station.
+> Unfortunately it seems that ringing up US Bus lines isn't an option when
+> trying to meet the last bus of the day. it seems like both of the depos close
+> sometime before 9:12pm when this bus leaves Upper Ferntree Gully station.
 >
-> You advised in your latest email that I should raise the issue with Met Link to see if they can change the run out time. I thought timetabling was the responsibility of the bus companies; Metlink only published the time tables they have been provided - or am I confused?
+> You advised in your latest email that I should raise the issue with Met Link
+> to see if they can change the run out time. I thought timetabling was the
+> responsibility of the bus companies; Metlink only published the time tables
+> they have been provided - or am I confused?
 >
 > Thanks
 
@@ -418,10 +450,10 @@ As of 2012-05-26 there has been no sign of this bus tracking system.
 
 > Brian ,
 >
-> Met link is the one who tells us the times in and out of stations.
-> We can not change the times, they do and they let us know. As stated before if you ring we can help,
-> But keep in mind this Depot closes at 20.00, you can ring Doncaster, and they can call the bus.
-> Doncaster number is 9856 1415
+> Met link is the one who tells us the times in and out of stations.  We can
+> not change the times, they do and they let us know. As stated before if you
+> ring we can help, But keep in mind this Depot closes at 20.00, you can ring
+> Doncaster, and they can call the bus.  Doncaster number is 9856 1415
 >
 > Malcolm Wicks
 > Operations Supervisor  (US Bus Lines)
@@ -471,21 +503,46 @@ The train missed the bus connection again.
 
 > Hello,
 >
-> Last Thursday, 17th May, the train made an extra long stop at Mitcham and then Heatherdale stations. No explanations given. As a result, the train which had been catching up on time was now 4-5 minutes late when it left Ringwood station.
+> Last Thursday, 17th May, the train made an extra long stop at Mitcham and
+> then Heatherdale stations. No explanations given. As a result, the train
+> which had been catching up on time was now 4-5 minutes late when it left
+> Ringwood station.
 >
-> I attempted to Contact Monbulk depot, however like you said it was closed. So I contacted Doncaster Depot. The person said he would let the driver know that I was expected at 9:15pm.
+> I attempted to Contact Monbulk depot, however like you said it was closed. So
+> I contacted Doncaster Depot. The person said he would let the driver know
+> that I was expected at 9:15pm.
 >
-> Unfortunately, however, the bus left bang on time - 9:12pm - as confirmed by driver of 732 route. When I got to the bus stop, 9:14pm (a minute earlier then I estimated at Ringwood station), there was no bus present, As discussed previously, I thought the bus might be running late, so I rang Doncaster Depot again as I have been told to do so. They said they had no idea where the bus was. Nor was he particularly helpful considering this is the last bus. While I was on the phone, the bus drove past on Burwood highway. I tried to race down to meet it, however due to being on the phone to Doncaster, I missed it.
+> Unfortunately, however, the bus left bang on time - 9:12pm - as confirmed by
+> driver of 732 route. When I got to the bus stop, 9:14pm (a minute earlier
+> then I estimated at Ringwood station), there was no bus present, As discussed
+> previously, I thought the bus might be running late, so I rang Doncaster
+> Depot again as I have been told to do so. They said they had no idea where
+> the bus was. Nor was he particularly helpful considering this is the last
+> bus. While I was on the phone, the bus drove past on Burwood highway. I tried
+> to race down to meet it, however due to being on the phone to Doncaster, I
+> missed it.
 >
-> As instructed I have contacted PTV (having replaced Metlink for complaints) to try and get the timetable changed. So I have given them full details what happened too.
+> As instructed I have contacted PTV (having replaced Metlink for complaints)
+> to try and get the timetable changed. So I have given them full details what
+> happened too.
 >
-> However, I would like to know - why didn't the bus wait even just 1 minute for my train to arrive? With 2 minutes I would have been able to catch the service. Don't the drivers care? For these last 2 services, some drivers will wait 5-10 minutes after the scheduled time even when the train is obviously on time. Unfortunately, this wasn't one of them.
+> However, I would like to know - why didn't the bus wait even just 1 minute
+> for my train to arrive? With 2 minutes I would have been able to catch the
+> service. Don't the drivers care? For these last 2 services, some drivers will
+> wait 5-10 minutes after the scheduled time even when the train is obviously
+> on time. Unfortunately, this wasn't one of them.
 >
-> Also can I reconfirm what I should be doing when I arrive late and there isn't a bus present. Last time I asked I was told I should ring the Depot, but in doing just this, I made sure I missed the last bus service. It is possible I might have been able to catch it from Burwood highway if I was there at the time.
+> Also can I reconfirm what I should be doing when I arrive late and there
+> isn't a bus present. Last time I asked I was told I should ring the Depot,
+> but in doing just this, I made sure I missed the last bus service. It is
+> possible I might have been able to catch it from Burwood highway if I was
+> there at the time.
 >
 > It was very inconvenient getting back home as a result.
 >
-> Unfortunately, if I can't count on the train/bus connection meeting, I have to rely on driving to/from the station, which means I can't use your otherwise good bus service as often as I would like.
+> Unfortunately, if I can't count on the train/bus connection meeting, I have
+> to rely on driving to/from the station, which means I can't use your
+> otherwise good bus service as often as I would like.
 >
 > Thanks
 
@@ -564,9 +621,10 @@ Metro Trains. Not sure if it is related or not to the complaint I sent to PTV.
 
 > Hi Brian,
 >
-> Driver didn't hear the call from Doncaster due to bad reception(Dead spot) at upper Ferntree Gully.
-> The driver left 2 minutes late as precaution knowing he was the last bus.
-> As for train time table enquires you need to get in touch with Yarra trains.
+> Driver didn't hear the call from Doncaster due to bad reception(Dead spot) at
+> upper Ferntree Gully.  The driver left 2 minutes late as precaution knowing
+> he was the last bus.  As for train time table enquires you need to get in
+> touch with Yarra trains.
 >
 > If you need to discuss the above further please don't hesitate to call me.
 >
