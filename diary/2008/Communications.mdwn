@@ -12,6 +12,7 @@ the train had indicated it was a City Loop train, but now said Connex.
 After a number of stops, the signs in the train changed to "stopping all
 stations direct to Flinders Street station." Ok, not a good sign.
 
+[[!more text="""
 The driver made an announcement before Ringwood saying that the train
 was now a stopping all stations Flinders Street direct train. He didn't
 say why or what city loop passengers should be doing. My first thought
@@ -42,5 +43,6 @@ Notes:
 it was a changing to become a stopping all stations train. Apparently
 nobody told the driver. The train used the track normally used for
 express trains too.
+"""]]
 
 [[!tag categories/public_transport]]

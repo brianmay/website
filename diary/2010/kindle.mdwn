@@ -15,6 +15,7 @@ having to carry them around.
 This is purely my experiences so far. I make no claim that everything I have said
 is accurate, but will try to fix any mistakes as I find them.
 
+[[!more text="""
 ## Delivery
 
 I was expecting to receive the Kindle on Friday. When it didn't arrive I
@@ -233,5 +234,6 @@ Overall I am really happy with my purchase. It is a shame though that there are
 anti-features, such as DRM and country restrictions, that very much restrict what I
 can do with the Kindle, and as a result, may limit the number of books I
 purchase from Amazon's store.
+"""]]
 
 [[!tag categories/ebooks]]

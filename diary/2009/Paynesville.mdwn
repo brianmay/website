@@ -8,6 +8,7 @@ link="Paynesville"]] to fix up Grandma's old house.
 We made a complete mess of the house. This is because we had to remove
 everything, in order to allow us to rent the property.
 
+[[!more text="""
 [[!template id=photo photo=26014 title="Grandma's kitchen"]]
 
 We took a lot of things to the tip, as we didn't have anywhere else to put
@@ -41,5 +42,6 @@ After Tyla went swimming she was a very messy with lots of sand.
 [[!template id=photo photo=26085 title="Tyla sandy"]]
 
 [[!template id=photos_album album=275 link="More photos"]]
+"""]]
 
 [[!tag categories/holidays]]

@@ -10,6 +10,7 @@ like "MOOOoooooo."
 
 [[!template id=photo photo=26089 title="Cobden locals"]]
 
+[[!more text="""
 The Cobden Creat Cottage came complete with Kitchen, Bedrooms and Games rooms.
 
 [[!template id=photo photo=26114 title="Kitchen"]]
@@ -43,5 +44,6 @@ didn't see it. The photo is not a fake.
 [[!template id=photo photo=26505 title="Lochness Cow"]]
 
 [[!template id=photos_album album=276 link="More photos"]]
+"""]]
 
 [[!tag categories/holidays]]

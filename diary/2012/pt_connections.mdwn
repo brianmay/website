@@ -7,7 +7,10 @@ To get home from these meetings, I would like to catch a train to Upper
 Ferntree Gully (UFTG) and then a bus up the mountain (688).
 
 Unfortunately, the connections between the train service and the bus service
-have not been properly thought out. Here is a table. The columns in order are:
+have not been properly thought out.
+
+[[!more text="""
+Here is a table. The columns in order are:
 
 1. fs: the time the train leaves Flinders Street station.
 2. uftg: the next column is when it is suppose to arrive at UFTG station.
@@ -675,5 +678,6 @@ they are not interested in resolving the problem.
 There are too many operators involved. What I would really like is for PTV,
 Metro Trains, Ventura Bus, and maybe even Metlink and Yarra Trains to talk to
 each other and find a solution to this problem.
+"""]]
 
 [[!tag categories/public_transport]]

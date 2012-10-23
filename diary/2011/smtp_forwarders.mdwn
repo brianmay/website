@@ -14,6 +14,7 @@ There are a number of lightweight solutions in Debian, unfortunately, they all
 seem to implement a different subset of the requirements, they tend to be buggy
 and ill-maintained too.
 
+[[!more text="""
 Requirements:
 
 1. Forward all email to remote SMTP host.
@@ -77,5 +78,6 @@ None of these packages does what I want. I have tried submitting bug reports,
 but unfortunately, there is little interest in fixing the problems either. So
 the best solution might be to install a full blown MTA such as postfix, and
 turn off functions I don't need (e.g. incoming SMTP support).
+"""]]
 
 [[!tag categories/computers/linux]]
