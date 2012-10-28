@@ -2,9 +2,11 @@
 [[!meta date="2012-06-07T02:24:22 GMT"]]
 # Samba 4 beta1
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/EjLcBwRqE4G) on Google+.
+
 > What's new in Samba 4 beta1. released on Tuesday, 5th of June 2012. We are proud to a announce our first beta release of Samba 4.0, beta 1. What's new in Samba 4 beta1. Samba 4.0 will be the n...
 > 
-> [original article](https://wiki.samba.org/index.php/Samba4/Releases/4.0.0beta1)
+> [full article](https://wiki.samba.org/index.php/Samba4/Releases/4.0.0beta1)
 
-[source note](https://plus.google.com/115093849423083837632/posts/EjLcBwRqE4G) <!-- z13cyprbky3js52um23rw3tx4zy4zhrrw04 -->
+<!-- z13cyprbky3js52um23rw3tx4zy4zhrrw04 -->
 [[!tag categories/computers/Windows]]

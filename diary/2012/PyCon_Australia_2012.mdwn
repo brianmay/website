@@ -2,11 +2,13 @@
 [[!meta date="2012-04-26T23:22:46 GMT"]]
 # PyCon Australia 2012
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/5vGYcVDAcV8) on Google+.
+
 PyCon Australia 2012 early bird registrations going fast...
 
 > Submitted on 2012-04-18 09:06. tl;dr: PyCon Australia early bird registrations are now open! Find out more at http://2012.pycon-au.org/register/prices, including details of our accommodation programme...
 > 
-> [original article](http://2012.pycon-au.org/media/news/15)
+> [full article](http://2012.pycon-au.org/media/news/15)
 
-[source note](https://plus.google.com/115093849423083837632/posts/5vGYcVDAcV8) <!-- z12tz5po3uy3j1gsx23rw3tx4zy4zhrrw04 -->
+<!-- z12tz5po3uy3j1gsx23rw3tx4zy4zhrrw04 -->
 [[!tag categories/conferences]]

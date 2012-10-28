@@ -2,6 +2,8 @@
 [[!meta date="2012-03-10T04:00:33 GMT"]]
 # Tanguy Ortolo: JSON License considered harmful
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/ZnAixUbPp35) on Google+.
+
 > Summary
 > 
 > 
@@ -36,7 +38,7 @@
 > 
 > <img src='http://planet.debian.org/heads/tanguy.png' alt='fullImage' />
 > 
-> [original article](http://tanguy.ortolo.eu/blog/article46/json-license)
+> [full article](http://tanguy.ortolo.eu/blog/article46/json-license)
 
-[source note](https://plus.google.com/115093849423083837632/posts/ZnAixUbPp35) <!-- z132hvcpjxnhepza304cizkjbonzsnxqyzk0k -->
+<!-- z132hvcpjxnhepza304cizkjbonzsnxqyzk0k -->
 [[!tag categories/legal]]

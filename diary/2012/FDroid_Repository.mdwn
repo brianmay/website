@@ -2,13 +2,13 @@
 [[!meta date="2012-03-10T00:55:42 GMT"]]
 # FDroid Repository
 
-Brian May shared the following post written by Andrew Spiers:
+[Brian May](https://plus.google.com/115093849423083837632) shared [this activity](https://plus.google.com/110070577137640783483/posts/FnjnDDCcLee) on Google+ written by [Andrew Spiers](https://plus.google.com/110070577137640783483).
 
 The FDroid Repository is an easily-installable catalogue of FOSS applications for the Android platform.
 
 > <img src='http://f-droid.org/wp-content/uploads/2011/06/cropped-fdroidheader.jpg' alt='fullImage' />
 > 
-> [original article](http://f-droid.org/wp-content/uploads/2011/06/cropped-fdroidheader.jpg)
+> [full article](http://f-droid.org/wp-content/uploads/2011/06/cropped-fdroidheader.jpg)
 
-[source activity](https://plus.google.com/110070577137640783483/posts/FnjnDDCcLee) <!-- z12iudrp2uyecpaoi04cizkjbonzsnxqyzk0k -->
+<!-- z12iudrp2uyecpaoi04cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/foss categories/computers/Android]]

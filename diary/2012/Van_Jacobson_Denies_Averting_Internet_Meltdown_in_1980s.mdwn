@@ -2,9 +2,11 @@
 [[!meta date="2012-05-28T04:51:34 GMT"]]
 # Van Jacobson Denies Averting Internet Meltdown in 1980s
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/ZgMTQVJCnub) on Google+.
+
 > All Van Jacobson wanted to do was upload a few documents to the internet. Unfortunately, it was 1985.
 > 
-> [original article](http://www.wired.com/wiredenterprise/2012/05/van-jacobson/)
+> [full article](http://www.wired.com/wiredenterprise/2012/05/van-jacobson/)
 
-[source note](https://plus.google.com/115093849423083837632/posts/ZgMTQVJCnub) <!-- z133g5eyqze4wxfy304cizkjbonzsnxqyzk0k -->
+<!-- z133g5eyqze4wxfy304cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/network]]

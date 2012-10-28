@@ -2,11 +2,13 @@
 [[!meta date="2012-09-13T02:38:25 GMT"]]
 # Chip and PIN cards can be cloned
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/AWM4TxdRVrT) on Google+.
+
 > Chip and PIN cards can be cloned: researchers
 > 
 > <img src='http://images.theage.com.au/2012/09/13/3631144/art-353-chipnpin.jpg' alt='fullImage' />
 > 
-> [original article](http://www.theage.com.au/it-pro/security-it/chip-and-pin-cards-can-be-cloned-researchers-20120913-25ts1.html)
+> [full article](http://www.theage.com.au/it-pro/security-it/chip-and-pin-cards-can-be-cloned-researchers-20120913-25ts1.html)
 
-[source note](https://plus.google.com/115093849423083837632/posts/AWM4TxdRVrT) <!-- z122evix1xrgghuls23rw3tx4zy4zhrrw04 -->
+<!-- z122evix1xrgghuls23rw3tx4zy4zhrrw04 -->
 [[!tag categories/computers/security]]

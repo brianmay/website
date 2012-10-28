@@ -2,7 +2,7 @@
 [[!meta date="2012-01-31T22:27:22 GMT"]]
 # Reading other peoples code
 
-Brian May shared the following post written by Bianca Gibson:
+[Brian May](https://plus.google.com/115093849423083837632) shared [this activity](https://plus.google.com/107330528562005281406/posts/26qLC7k4Kiz) on Google+ written by [Bianca Gibson](https://plus.google.com/105044183381477492549).
 
 Never a truer comic written.<br /><br /><a href="http://abstrusegoose.com/432" class="ot-anchor">http://abstrusegoose.com/432</a>
 
@@ -10,7 +10,7 @@ Never a truer comic written.<br /><br /><a href="http://abstrusegoose.com/432" c
 > 
 > <img src='https://lh6.googleusercontent.com/-hQlvwWF1yi0/Tyb78N0nTsI/AAAAAAAAIjQ/hO6fXjjdNts/you_down_wit_OPC-yeah_you_know_me.png' alt='fullImage' />
 > 
-> [original photo](https://plus.google.com/photos/107330528562005281406/albums/5703522985601605361/5703522990032375490)
+> [photo](https://plus.google.com/photos/107330528562005281406/albums/5703522985601605361/5703522990032375490)
 
-[source activity](https://plus.google.com/107330528562005281406/posts/26qLC7k4Kiz) <!-- z12adxxrjwu4fnic223rw3tx4zy4zhrrw04 -->
+<!-- z12adxxrjwu4fnic223rw3tx4zy4zhrrw04 -->
 [[!tag categories/humor categories/computers/programming]]

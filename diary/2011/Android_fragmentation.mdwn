@@ -2,13 +2,13 @@
 [[!meta date="2011-10-29T07:58:29 GMT"]]
 # Android fragmentation?
 
-Brian May shared the following post written by Gavin Duley:
+[Brian May](https://plus.google.com/115093849423083837632) shared [this activity](https://plus.google.com/108420623817919565558/posts/CXqHBxFMjKw) on Google+ written by [Gavin Duley](https://plus.google.com/108420623817919565558).
 
 Android fragmentation? It&#39;s Amazon, not handsets, that&#39;s the problem
 
 > Matthew Baxter-Reynolds: Many Android handsets haven't been updated to the latest OS – but the real problem lies elsewhere
 > 
-> [original article](http://www.guardian.co.uk/technology/blog/2011/oct/28/android-fragmentation-not-really)
+> [full article](http://www.guardian.co.uk/technology/blog/2011/oct/28/android-fragmentation-not-really)
 
-[source activity](https://plus.google.com/108420623817919565558/posts/CXqHBxFMjKw) <!-- z13qe33z4pyljhvrn04cizkjbonzsnxqyzk0k -->
+<!-- z13qe33z4pyljhvrn04cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/Android]]

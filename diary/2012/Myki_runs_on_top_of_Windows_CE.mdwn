@@ -2,11 +2,13 @@
 [[!meta date="2012-06-06T11:47:24 GMT"]]
 # Myki runs on top of Windows CE
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/UU5nK5qPHrg) on Google+.
+
 > Just a quick post for today: the question being one which has been doing the rounds among the more technically inclined when discussing Melbourne's partially commissioned Myki ticketing system - 'what...
 > 
 > <img src='http://railgallery.wongm.com/cache/myki/E103_7406_500.jpg' alt='fullImage' />
 > 
-> [original article](http://wongm.com/2012/06/myki-runs-on-top-of-windows-ce/)
+> [full article](http://wongm.com/2012/06/myki-runs-on-top-of-windows-ce/)
 
-[source note](https://plus.google.com/115093849423083837632/posts/UU5nK5qPHrg) <!-- z13szplzwl3kfbax404cizkjbonzsnxqyzk0k -->
+<!-- z13szplzwl3kfbax404cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/Windows]]

@@ -2,6 +2,8 @@
 [[!meta date="2012-02-28T03:16:41 GMT"]]
 # Stop mysql from truncating strings
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/BbaFnizWH4Z) on Google+.
+
 Have also been told that sql_mode=traditional will also stop mysql from truncating strings that are too long with a warning instead of an error.
 
 > SQLAlchemy, MySQL and sql_mode=traditional
@@ -34,7 +36,7 @@ Have also been told that sql_mode=traditional will also stop mysql from truncati
 > 
 > Query OK, 1 row affected, 1 warning (0.00 sec)...
 > 
-> [original article](http://www.enricozini.org/2012/tips/sa-sqlmode-traditional/)
+> [full article](http://www.enricozini.org/2012/tips/sa-sqlmode-traditional/)
 
-[source note](https://plus.google.com/115093849423083837632/posts/BbaFnizWH4Z) <!-- z123id2plpriidf1z23rw3tx4zy4zhrrw04 -->
+<!-- z123id2plpriidf1z23rw3tx4zy4zhrrw04 -->
 [[!tag categories/computers/databases]]

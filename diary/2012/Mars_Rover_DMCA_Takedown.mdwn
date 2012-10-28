@@ -2,11 +2,13 @@
 [[!meta date="2012-08-07T05:24:57 GMT"]]
 # Mars Rover DMCA Takedown
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/ZPUmv62dFJ4) on Google+.
+
 > NASA’s livestream coverage of the Curiosity rover’s landing on Mars was was practically as flawless as the landing itself, a refreshing alternative to all that troubled Olympics coverage. The broadcas...
 > 
 > <img src='http://assets.motherboard.tv/post_images/assets/000/013/276/nasa-copyright-video-2_large.jpg?1344250478' alt='fullImage' />
 > 
-> [original article](http://motherboard.vice.com/2012/8/6/nasa-s-mars-rover-crashed-into-a-dmca-takedown)
+> [full article](http://motherboard.vice.com/2012/8/6/nasa-s-mars-rover-crashed-into-a-dmca-takedown)
 
-[source note](https://plus.google.com/115093849423083837632/posts/ZPUmv62dFJ4) <!-- z13mufxy2y3fjtoa104cizkjbonzsnxqyzk0k -->
+<!-- z13mufxy2y3fjtoa104cizkjbonzsnxqyzk0k -->
 [[!tag categories/legal]]

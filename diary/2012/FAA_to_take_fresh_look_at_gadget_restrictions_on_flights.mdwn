@@ -2,11 +2,13 @@
 [[!meta date="2012-05-03T07:53:17 GMT"]]
 # FAA to take 'fresh look' at gadget restrictions on flights
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/W9U3PbfU3xW) on Google+.
+
 > The only thing worse than the Terrible 10,000 Feet is the underlying sense that it's all so unnecessary. Why should using an iPad, Kindle
 > 
 > <img src='http://www.blogcdn.com/www.engadget.com/media/2012/03/gogo-in-flight-wifi.jpg' alt='fullImage' />
 > 
-> [original article](http://www.engadget.com/2012/03/19/faa-to-take-fresh-look-at-gadget-restrictions-on-flights/)
+> [full article](http://www.engadget.com/2012/03/19/faa-to-take-fresh-look-at-gadget-restrictions-on-flights/)
 
-[source note](https://plus.google.com/115093849423083837632/posts/W9U3PbfU3xW) <!-- z12tut0i2xvkuhc5i04cizkjbonzsnxqyzk0k -->
+<!-- z12tut0i2xvkuhc5i04cizkjbonzsnxqyzk0k -->
 [[!tag categories/aviation categories/safety]]

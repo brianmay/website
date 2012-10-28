@@ -2,11 +2,13 @@
 [[!meta date="2011-11-06T00:21:20 GMT"]]
 # IPv6 support for 3G networks
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/N6R8vodY1ft) on Google+.
+
 3G is the major network transport that is still missing any sort of IPv6 support, at least in Australia.
 
 > Did you ever want to have a high-level overview of how 3G/4G mobile networks work? Where GGSN and SGSN fit in? What the PDP contexts are ... and why you need two for dual-stack connectivity? All that (and a lot more) is explained in very well written IETF draft IPv6 in 3GPP Evolved Packet System. Reading highly recommended.
 > 
-> [original article](http://feedproxy.google.com/~r/CiscoIosHintsAndTricks/~3/dr4o0pNntO4/rfc-tidbit-ipv6-in-3gpp-mobile-networks.html)
+> [full article](http://feedproxy.google.com/~r/CiscoIosHintsAndTricks/~3/dr4o0pNntO4/rfc-tidbit-ipv6-in-3gpp-mobile-networks.html)
 
-[source note](https://plus.google.com/115093849423083837632/posts/N6R8vodY1ft) <!-- z13ntx0xqtypzr3fy23rw3tx4zy4zhrrw04 -->
+<!-- z13ntx0xqtypzr3fy23rw3tx4zy4zhrrw04 -->
 [[!tag categories/computers/network categories/mobile]]

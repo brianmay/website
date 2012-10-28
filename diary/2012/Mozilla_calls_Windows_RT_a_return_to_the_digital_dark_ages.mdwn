@@ -2,11 +2,13 @@
 [[!meta date="2012-05-11T07:42:41 GMT"]]
 # Mozilla calls Windows RT a return to the digital dark ages
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/RVVBKeSZaCe) on Google+.
+
 > Mozilla is waving red flags about Microsoft's forthcoming Windows RT (the variety designed to run on ARM processors). It's claiming that only the
 > 
 > <img src='http://www.blogcdn.com/www.engadget.com/media/2012/05/angryfoxatmslogo232.jpg' alt='fullImage' />
 > 
-> [original article](http://www.engadget.com/2012/05/10/mozilla-slaps-windows-rt-as-a-return-to-the-digital-dark-ages/)
+> [full article](http://www.engadget.com/2012/05/10/mozilla-slaps-windows-rt-as-a-return-to-the-digital-dark-ages/)
 
-[source note](https://plus.google.com/115093849423083837632/posts/RVVBKeSZaCe) <!-- z13vtp4ijlyld3hom04cizkjbonzsnxqyzk0k -->
+<!-- z13vtp4ijlyld3hom04cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/Windows categories/computers/Microsoft]]

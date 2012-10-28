@@ -2,9 +2,11 @@
 [[!meta date="2011-11-08T22:22:15 GMT"]]
 # Code wizardry turns MythTV into Windows legend
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/hz7heYGTRsi) on Google+.
+
 > There are plenty of myths that surround MythTV: it's for hardcore enthusiasts only, you need a dedicated Linux box and that it's totally incompatible with Redmond's offerings. Whilst Microsoft HTPC users could previously access recordings, they didn't get the live TV, commercial skipping and DVR powers that the software is famous for. That's all changing, thanks to a group of developers who have ported the native front end to Windows. You can eit...
 > 
-> [original article](http://www.engadget.com/2011/11/08/code-wizardry-turns-mythtv-into-windows-legend/)
+> [full article](http://www.engadget.com/2011/11/08/code-wizardry-turns-mythtv-into-windows-legend/)
 
-[source note](https://plus.google.com/115093849423083837632/posts/hz7heYGTRsi) <!-- z13ytl35bziisn1bp04cizkjbonzsnxqyzk0k -->
+<!-- z13ytl35bziisn1bp04cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/tv]]

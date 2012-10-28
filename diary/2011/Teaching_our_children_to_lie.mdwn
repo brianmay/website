@@ -2,11 +2,13 @@
 [[!meta date="2011-11-03T00:24:22 GMT"]]
 # Teaching our children to lie
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/WHFvKHKwBpt) on Google+.
+
 > Teaching our children to lie - My son is being encouraged to lie. It's a fairly regular occurrence around here, and I'm sure you've seen it yourself. It's that checkbox on the website you're visiting...
 > 
 > <img src='http://andrew.mcmillan.net.nz/sites/andrew.mcmillan.net.nz/files/_dsc007785-03-scaled.jpg' alt='fullImage' />
 > 
-> [original article](http://andrew.mcmillan.net.nz/blog/teaching_our_children_to_lie)
+> [full article](http://andrew.mcmillan.net.nz/blog/teaching_our_children_to_lie)
 
-[source note](https://plus.google.com/115093849423083837632/posts/WHFvKHKwBpt) <!-- z13cuv4wvozcct1xj04cizkjbonzsnxqyzk0k -->
+<!-- z13cuv4wvozcct1xj04cizkjbonzsnxqyzk0k -->
 [[!tag categories/youth categories/computers/security]]

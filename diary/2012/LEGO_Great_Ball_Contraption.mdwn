@@ -2,11 +2,13 @@
 [[!meta date="2012-09-26T03:44:34 GMT"]]
 # LEGO Great Ball Contraption
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/33Ujqvk88tX) on Google+.
+
 > Lego Great Ball Contraption (GBC) in my house. my own 17 modules tracking the blue and red balls. running at 1.0 balls/sec 500 balls size : 1.5m×6.5m path le...
 > 
 > <img src='https://images3-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://i4.ytimg.com/vi/sUtS52lqL5w/hqdefault.jpg&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_w=497' alt='image' />
 > 
-> [original video](http://www.youtube.com/watch?v=sUtS52lqL5w)
+> [video](http://www.youtube.com/watch?v=sUtS52lqL5w)
 
-[source note](https://plus.google.com/115093849423083837632/posts/33Ujqvk88tX) <!-- z12ccvuzuqiyttasg23rw3tx4zy4zhrrw04 -->
+<!-- z12ccvuzuqiyttasg23rw3tx4zy4zhrrw04 -->
 [[!tag categories/computers]]

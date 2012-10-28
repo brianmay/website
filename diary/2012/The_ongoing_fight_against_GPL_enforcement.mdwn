@@ -2,9 +2,11 @@
 [[!meta date="2012-01-31T03:39:14 GMT"]]
 # The ongoing fight against GPL enforcement
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/HYqGopWAcXA) on Google+.
+
 > GPL enforcement is a surprisingly difficult task. It's not just a matter of identifying an infringement - you need to make sure you have a copyright holder on your side, spend some money sending l...
 > 
-> [original article](http://mjg59.dreamwidth.org/10437.html)
+> [full article](http://mjg59.dreamwidth.org/10437.html)
 
-[source note](https://plus.google.com/115093849423083837632/posts/HYqGopWAcXA) <!-- z13gwlj51pnedly3223rw3tx4zy4zhrrw04 -->
+<!-- z13gwlj51pnedly3223rw3tx4zy4zhrrw04 -->
 [[!tag categories/legal categories/computers/foss]]

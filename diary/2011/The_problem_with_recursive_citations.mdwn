@@ -2,7 +2,9 @@
 [[!meta date="2011-11-16T09:41:34 GMT"]]
 # The problem with recursive citations
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/HVSbJcJ2ro3) on Google+.
+
 The problem with recursive citations. It is in a documented article, so it must be true, right? <a href="http://xkcd.com/978/" class="ot-anchor">http://xkcd.com/978/</a>
 
-[source note](https://plus.google.com/115093849423083837632/posts/HVSbJcJ2ro3) <!-- z12pfjdx1lbevnmv223rw3tx4zy4zhrrw04 -->
+<!-- z12pfjdx1lbevnmv223rw3tx4zy4zhrrw04 -->
 [[!tag categories/humor]]

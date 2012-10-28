@@ -2,9 +2,11 @@
 [[!meta date="2012-05-31T10:40:00 GMT"]]
 # Implementing UEFI Secure Boot in Fedora
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/XditzNxzs5f) on Google+.
+
 > (Brief disclaimer - while I work for Red Hat, I'm only going to be talking about Fedora here. Anything written below represents only my opinions and my work on Fedora, not Red Hat's opinions o...
 > 
-> [original article](http://mjg59.dreamwidth.org/12368.html)
+> [full article](http://mjg59.dreamwidth.org/12368.html)
 
-[source note](https://plus.google.com/115093849423083837632/posts/XditzNxzs5f) <!-- z13bjtfipsflf14pr04cizkjbonzsnxqyzk0k -->
+<!-- z13bjtfipsflf14pr04cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/Linux]]

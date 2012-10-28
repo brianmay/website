@@ -2,11 +2,13 @@
 [[!meta date="2012-04-19T06:00:30 GMT"]]
 # Mechanical CPU Clock
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/2QVHfMiqV2r) on Google+.
+
 > This clock represents the inner working of a modern cpu in a mechanical manner. Just like a CPU, It contains registers, ALU, memory, Buses, and a Control Unit). The current hour is read from register A in binary format. The MSB is at the bottom and the LSB is at the top. Here is the code that the clock is executing. 1: CHECK_DTD 2: JUMP 5 3: CLEAR 4: JUMP 1 5: INCREMENT 6: EQUAL 11 7: JUMP 1 8: SET_DTD 9: JUMP 1 For more information see: http://www.liorelazary.com/index.php?option=com_content&view=article&id=46:mechanical-cpu-clock&catid=10:clocks&Itemid=15
 > 
 > <img src='https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://ytimg.googleusercontent.com/vi/0H4LTOYpAM4/hqdefault.jpg&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_w=497' alt='image' />
 > 
-> [original video](http://www.youtube.com/watch?v=0H4LTOYpAM4)
+> [video](http://www.youtube.com/watch?v=0H4LTOYpAM4)
 
-[source note](https://plus.google.com/115093849423083837632/posts/2QVHfMiqV2r) <!-- z13pthoyqmvqtdgsc23rw3tx4zy4zhrrw04 -->
+<!-- z13pthoyqmvqtdgsc23rw3tx4zy4zhrrw04 -->
 [[!tag categories/computers]]

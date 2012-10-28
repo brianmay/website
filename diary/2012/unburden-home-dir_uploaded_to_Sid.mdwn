@@ -2,6 +2,8 @@
 [[!meta date="2012-05-05T02:50:11 GMT"]]
 # unburden-home-dir uploaded to Sid
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/Ujx7HXFwacT) on Google+.
+
 > Most popular web browsers cause quite a lot of I/O on a user’s home
 > 
 > directory and their cache’s also take up quite some disk space – with
@@ -22,7 +24,7 @@
 > 
 > <img src='http://planet.debian.org/heads/xtaran.png' alt='fullImage' />
 > 
-> [original article](http://noone.org/blog/English/Computer/Debian/unburden-home-dir%2520uploaded%2520to%2520Sid.html)
+> [full article](http://noone.org/blog/English/Computer/Debian/unburden-home-dir%2520uploaded%2520to%2520Sid.html)
 
-[source note](https://plus.google.com/115093849423083837632/posts/Ujx7HXFwacT) <!-- z12yczxotqrzy3v5504cizkjbonzsnxqyzk0k -->
+<!-- z12yczxotqrzy3v5504cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/Debian]]

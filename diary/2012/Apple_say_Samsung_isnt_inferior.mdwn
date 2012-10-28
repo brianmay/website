@@ -2,11 +2,13 @@
 [[!meta date="2012-09-09T23:55:37 GMT"]]
 # Apple say Samsung isn't inferior
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/XGHbYFCuzHb) on Google+.
+
 Samsung: Android&#39;s multitouch software doesn&#39;t work as well as Apple&#39;s; Apple: Android multitouch isn&#39;t inferior.
 
 > itwbennett writes "Hoping to avoid a sales ban in the Netherlands, Samsung has said that Android's multitouch software doesn't work as well as Apple's. Samsung lawyer Bas Berghuis van Woortman said th...
 > 
-> [original article](http://yro.slashdot.org/story/12/09/07/2251234/samsung-androids-multitouch-not-as-good-as-apples)
+> [full article](http://yro.slashdot.org/story/12/09/07/2251234/samsung-androids-multitouch-not-as-good-as-apples)
 
-[source note](https://plus.google.com/115093849423083837632/posts/XGHbYFCuzHb) <!-- z12felxwnnybwhxxo04cizkjbonzsnxqyzk0k -->
+<!-- z12felxwnnybwhxxo04cizkjbonzsnxqyzk0k -->
 [[!tag categories/legal categories/computers/Apple]]

@@ -2,13 +2,15 @@
 [[!meta date="2012-05-09T05:16:20 GMT"]]
 # The Online Ordering System
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/YZWeNW5FN52) on Google+.
+
 > Local businesses aren't exactly known for their web savviness or IT prowess. And for the most part, that's just fine. You'd be better off judging a prospective attorney on the suit he wears rather than the website he maintains, as that at least has some tangential relationship to practicing law. But usually, you'd just go with whomever a trusted colleague recommended, anyway.
 > 
 > For restaurants however, this is quickly changing. With smartphones bec...
 > 
 > <img src='http://img.thedailywtf.com/images/12/q3/5/pic1.png' alt='fullImage' />
 > 
-> [original article](http://thedailywtf.com/Articles/The-Online-Ordering-System.aspx)
+> [full article](http://thedailywtf.com/Articles/The-Online-Ordering-System.aspx)
 
-[source note](https://plus.google.com/115093849423083837632/posts/YZWeNW5FN52) <!-- z12qxhcqzyqccpq5w04cizkjbonzsnxqyzk0k -->
+<!-- z12qxhcqzyqccpq5w04cizkjbonzsnxqyzk0k -->
 [[!tag categories/wtf]]

@@ -2,11 +2,13 @@
 [[!meta date="2011-11-22T00:05:35 GMT"]]
 # Adobe leaves Linux AIR users vulnerable
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/ZXcm7BLyRfK) on Google+.
+
 > A few months ago, Adobe announced a slew of vulnerabilities in its Flash Player, which is a critical component of Adobe AIR: Adobe recommends users of Adobe AIR 2.6.19140 and earlier versions for Windows, Macintosh and Linux update to Adobe AIR 2.7.0.1948. [...] June 14, 2011 - Bulletin updated with information on Adobe AIR However, looking at Adobe's instructions for installing AIR on "Linux" systems, we see that it is impossible for people runn...
 > 
 > <img src='http://planet.debian.org/heads/dkg.png' alt='fullImage' />
 > 
-> [original article](http://debian-administration.org/users/dkg/weblog/84)
+> [full article](http://debian-administration.org/users/dkg/weblog/84)
 
-[source note](https://plus.google.com/115093849423083837632/posts/ZXcm7BLyRfK) <!-- z12zhzxyvrq3etja204cizkjbonzsnxqyzk0k -->
+<!-- z12zhzxyvrq3etja204cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/security]]

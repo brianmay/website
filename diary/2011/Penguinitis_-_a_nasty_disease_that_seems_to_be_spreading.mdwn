@@ -2,6 +2,8 @@
 [[!meta date="2011-11-10T22:22:01 GMT"]]
 # Penguinitis - a nasty disease that seems to be spreading
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/1x21GaKEbBt) on Google+.
+
 Penguinitis - a nasty disease that seems to be spreading.
 
 > Many users have asked me why Kororaa is called Kororaa. It’s hard to spell and it’s hard to say (it’s even a rude word in some languages, sorry about that). Well, I’d like to share the meaning behind the name.
@@ -14,7 +16,7 @@ Penguinitis - a nasty disease that seems to be spreading.
 > 
 > <img src='http://kororaa.org/images/TheStoryBehindTux-small.jpg' alt='fullImage' />
 > 
-> [original article](http://blog.christophersmart.com/2011/11/10/whats-in-a-name-the-meaning-behind-kororaa/)
+> [full article](http://blog.christophersmart.com/2011/11/10/whats-in-a-name-the-meaning-behind-kororaa/)
 
-[source note](https://plus.google.com/115093849423083837632/posts/1x21GaKEbBt) <!-- z133vvfoykeizdpc523rw3tx4zy4zhrrw04 -->
+<!-- z133vvfoykeizdpc523rw3tx4zy4zhrrw04 -->
 [[!tag categories/humor]]

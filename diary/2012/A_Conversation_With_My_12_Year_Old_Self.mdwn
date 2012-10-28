@@ -2,7 +2,7 @@
 [[!meta date="2012-07-08T10:19:37 GMT"]]
 # A Conversation With My 12 Year Old Self
 
-Brian May shared the following post written by Brianna Laugher:
+[Brian May](https://plus.google.com/115093849423083837632) shared [this activity](https://plus.google.com/108520982587074639020/posts/PTCN4fdd1nB) on Google+ written by [Brianna Laugher](https://plus.google.com/108520982587074639020).
 
 uh... okay.
 
@@ -10,7 +10,7 @@ uh... okay.
 > 
 > <img src='https://images3-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://ytimg.googleusercontent.com/vi/XFGAQrEUaeU/hqdefault.jpg&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_w=497' alt='image' />
 > 
-> [original video](http://www.youtube.com/watch?v=XFGAQrEUaeU)
+> [video](http://www.youtube.com/watch?v=XFGAQrEUaeU)
 
-[source activity](https://plus.google.com/108520982587074639020/posts/PTCN4fdd1nB) <!-- z12awpcobs2njhsmg23rw3tx4zy4zhrrw04 -->
+<!-- z12awpcobs2njhsmg23rw3tx4zy4zhrrw04 -->
 [[!tag categories/humor]]

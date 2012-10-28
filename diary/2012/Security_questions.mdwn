@@ -2,11 +2,13 @@
 [[!meta date="2012-09-17T01:50:41 GMT"]]
 # Security questions
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/egEWm8Rospj) on Google+.
+
 Wish I could remember what security questions and answers I have given for what website.
 
 > Hugh Pickens writes "Rebecca Rosen writes that when hackers broke into Mat Honan's Apple account last week, they couldn't answer his security questions but Apple didn't care and issued a temporary pas...
 > 
-> [original article](http://it.slashdot.org/story/12/08/09/1410231/secret-security-questions-are-a-joke)
+> [full article](http://it.slashdot.org/story/12/08/09/1410231/secret-security-questions-are-a-joke)
 
-[source note](https://plus.google.com/115093849423083837632/posts/egEWm8Rospj) <!-- z13ofd3phvjbercb104cizkjbonzsnxqyzk0k -->
+<!-- z13ofd3phvjbercb104cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/security]]

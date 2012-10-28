@@ -2,11 +2,13 @@
 [[!meta date="2012-08-01T04:55:00 GMT"]]
 # OAuth 2.0
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/dUgPMiB6wHn) on Google+.
+
 &quot;They say the road to hell is paved with good intentions. Well, that’s OAuth 2.0&quot; <a href="http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/" class="ot-anchor">http://hueniverse.com/2012/07/oauth-2-0-and-the-road-to-hell/</a>
 
 > New submitter tramp writes "The Register reports, 'Eran Hammer, who helped create the OAuth 1.0 spec, has been editing the evolving 2.0 spec for the last three years. He resigned from his role in June...
 > 
-> [original article](http://tech.slashdot.org/story/12/07/28/1538212/oauth-20-standard-editor-quits-takes-name-off-spec)
+> [full article](http://tech.slashdot.org/story/12/07/28/1538212/oauth-20-standard-editor-quits-takes-name-off-spec)
 
-[source note](https://plus.google.com/115093849423083837632/posts/dUgPMiB6wHn) <!-- z13qvtwajwifx32qu04cizkjbonzsnxqyzk0k -->
+<!-- z13qvtwajwifx32qu04cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/security]]

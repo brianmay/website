@@ -2,11 +2,13 @@
 [[!meta date="2011-11-09T05:23:42 GMT"]]
 # GooglePlus - Not A Facebook Thing
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/CM79k3sLcVn) on Google+.
+
 > Google Plus is dead! cries Farhad Manjoo in Slate. It's chance to compete with Facebook has come and gone and thus GooglePlus is effectively a dead man walking, destined to join Googles other social projects such as Buzz or Wave (which wasn't a social project but the media do like to pretend that it was).
 > 
 > Except, here's a thought. What if GooglePlus isn't all about competing with the Facebook? What if, instead, it's about being a part of a greate...
 > 
-> [original article](http://jamespurser.com.au/blog/googleplus-not-facebook-thing)
+> [full article](http://jamespurser.com.au/blog/googleplus-not-facebook-thing)
 
-[source note](https://plus.google.com/115093849423083837632/posts/CM79k3sLcVn) <!-- z124yvppxsi4tfuu323rw3tx4zy4zhrrw04 -->
+<!-- z124yvppxsi4tfuu323rw3tx4zy4zhrrw04 -->
 [[!tag categories/computers/Google]]

@@ -2,11 +2,13 @@
 [[!meta date="2011-11-29T02:17:38 GMT"]]
 # Plans to crack down on online piracy
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/c74meZbXbVa) on Google+.
+
 Errr... Just because they have identified the IP address and/or ISP connection doesn&#39;t mean that they have identified the offender. Multiple people can share the one connection, perhaps without knowledge of what the others are doing. Also think of bots that may be installed without owners knowledge - people may not realize this is the problem when receiving a warning.
 
 > xav_jones writes "The ABC is reporting that 'Australia's five major ISPs have revealed their plans to crack down on online piracy by sending warning notices to suspected illegal downloaders while assisting rights holders to pursue serial offenders through the courts.' The idea is that '[d]uring an 18-month trial, rights holders would send copyright infringement notices, including evidence of copyright infringement and the IP address involved, to ...
 > 
-> [original article](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GixGn7F8cUg/australian-isps-to-crack-down-on-piracy)
+> [full article](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GixGn7F8cUg/australian-isps-to-crack-down-on-piracy)
 
-[source note](https://plus.google.com/115093849423083837632/posts/c74meZbXbVa) <!-- z13cst3zqozdtlwal04cizkjbonzsnxqyzk0k -->
+<!-- z13cst3zqozdtlwal04cizkjbonzsnxqyzk0k -->
 [[!tag categories/legal]]

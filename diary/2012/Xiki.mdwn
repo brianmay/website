@@ -2,13 +2,15 @@
 [[!meta date="2012-09-18T00:01:50 GMT"]]
 # Xiki
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/2SARPZEdz6S) on Google+.
+
 Xiki: Can your shell console do this?
 
 > A very quick overview of Xiki. Like a shell console but better.
 > 
 > <img src='https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://i3.ytimg.com/vi/bUR_eUVcABg/hqdefault.jpg&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_w=497' alt='image' />
 > 
-> [original video](http://www.youtube.com/watch?v=bUR_eUVcABg)
+> [video](http://www.youtube.com/watch?v=bUR_eUVcABg)
 
-[source note](https://plus.google.com/115093849423083837632/posts/2SARPZEdz6S) <!-- z12rut4bszyge3mcc23rw3tx4zy4zhrrw04 -->
+<!-- z12rut4bszyge3mcc23rw3tx4zy4zhrrw04 -->
 [[!tag categories/computers/unix]]

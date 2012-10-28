@@ -2,11 +2,13 @@
 [[!meta date="2011-12-22T03:13:29 GMT"]]
 # 'new' Dick Smith hard drive full of pirated movies
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/eZ3422UKN8h) on Google+.
+
 > Exposed: 'new' Dick Smith hard drive full of pirated movies
 > 
 > <img src='http://images.theage.com.au/2011/12/22/2854176/darrylmason2main-420x0.jpg' alt='fullImage' />
 > 
-> [original article](http://www.theage.com.au/digital-life/computers/exposed-new-dick-smith-hard-drive-full-of-pirated-movies-20111222-1p6eh.html)
+> [full article](http://www.theage.com.au/digital-life/computers/exposed-new-dick-smith-hard-drive-full-of-pirated-movies-20111222-1p6eh.html)
 
-[source note](https://plus.google.com/115093849423083837632/posts/eZ3422UKN8h) <!-- z12djvziusruezkj004cizkjbonzsnxqyzk0k -->
+<!-- z12djvziusruezkj004cizkjbonzsnxqyzk0k -->
 [[!tag categories/legal categories/computers/security]]

@@ -2,6 +2,8 @@
 [[!meta date="2011-11-02T01:36:07 GMT"]]
 # SSL computational DoS mitigation
 
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/Y2vtD7vX8RE) on Google+.
+
 > Some days ago, a hacker group, THC , released a
 > 
 > denial of service tool for SSL web servers. As stated in its
@@ -22,7 +24,7 @@
 > 
 > <img src='http://d1g3mdmxf8zbo9.cloudfront.net/images/ssl-server-vs-client.png' alt='fullImage' />
 > 
-> [original article](http://www.luffy.cx/en/blog/2011-ssl-dos-mitigation.html)
+> [full article](http://www.luffy.cx/en/blog/2011-ssl-dos-mitigation.html)
 
-[source note](https://plus.google.com/115093849423083837632/posts/Y2vtD7vX8RE) <!-- z12wyr5byoawgnl5t04cizkjbonzsnxqyzk0k -->
+<!-- z12wyr5byoawgnl5t04cizkjbonzsnxqyzk0k -->
 [[!tag categories/computers/security]]
