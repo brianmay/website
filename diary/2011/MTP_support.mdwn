@@ -1,0 +1,14 @@
+[[!meta title="MTP support"]]
+[[!meta date="2011-11-21T23:53:38 GMT"]]
+# MTP support
+
+MTP support is fine for me, just wish MTP worked properly under Linux (for me under Ubuntu 11.10 it hangs after several seconds and stops working).
+
+> Engadget
+> 
+> <img src='http://www.blogcdn.com/www.engadget.com/media/2011/11/galaxynexusfirstimpressionslead.jpg' alt='fullImage' />
+> 
+> [original article](http://www.engadget.com/2011/11/21/ice-cream-sandwich-supports-usb-mass-storage-after-all-galaxy-n/)
+
+[source note](https://plus.google.com/115093849423083837632/posts/Xshtp9dN4Qi) <!-- z12dwvdxesv1izmps04cizkjbonzsnxqyzk0k -->
+[[!tag categories/computers/Ubuntu categories/computers/Android]]

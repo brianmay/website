@@ -1,0 +1,16 @@
+[[!meta title="Starting Android App development"]]
+[[!meta date="2012-04-21T12:01:24 GMT"]]
+# Starting Android App development
+
+Brian May shared the following post written by Android Developers:
+
+Interested in getting into Android App development but don&#39;t know how to get started? <br /><br />Android Training now includes a set of excellent 101 classes that introduce the fundamental concepts of Android development in a structured, cohesive way.<br /><br />There&#39;s a bunch of new advanced training courses too, so head over and let us know what you think!
+
+> Android Developers · Home Startseite ホーム 主页 首頁 · SDK · Dev Guide Handbuch Guía Guide Guida 開発ガイド 开发人员指南 開發指南 · Reference Referenz Referencia Référence Riferimento リファレンス 参考 參考資料 · Resources · Videos ビ...
+> 
+> <img src='http://developer.android.com/images/training/training-prof.png' alt='fullImage' />
+> 
+> [original article](http://developer.android.com/training/index.html)
+
+[source activity](https://plus.google.com/108967384991768947849/posts/TN89tvGhAAQ) <!-- z13qs3waosulvlnkk23rw3tx4zy4zhrrw04 -->
+[[!tag categories/computers/Android]]

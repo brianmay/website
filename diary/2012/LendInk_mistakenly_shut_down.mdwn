@@ -1,0 +1,10 @@
+[[!meta title="LendInk mistakenly shut down"]]
+[[!meta date="2012-08-09T03:51:15 GMT"]]
+# LendInk mistakenly shut down
+
+> Ian Lamont writes "LendInk, a community for people interesting in using the lending features of the Kindle and Nook, has been shut down after some authors mistakenly thought the site was hosting pirat...
+> 
+> [original article](http://yro.slashdot.org/story/12/08/09/007212/legitimate-ebook-lending-community-closed-after-copyright-complaints)
+
+[source note](https://plus.google.com/115093849423083837632/posts/cWRFh2zzAeg) <!-- z13mufbpjo3jeldao04cizkjbonzsnxqyzk0k -->
+[[!tag categories/legal]]

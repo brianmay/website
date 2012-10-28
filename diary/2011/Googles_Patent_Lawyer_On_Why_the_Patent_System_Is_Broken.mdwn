@@ -1,0 +1,10 @@
+[[!meta title="Google's Patent Lawyer On Why the Patent System Is Broken"]]
+[[!meta date="2011-11-07T04:05:26 GMT"]]
+# Google's Patent Lawyer On Why the Patent System Is Broken
+
+> The San Francisco Chronicle features an interview with Google's patent counsel, Tim Porter, who argues that "... what many people can agree on is the current system is broken and there are a large number of software patents out there fueling litigation that resulted from a 10- or 15-year period when the issuance of software patents was too lax. Things that seemed obvious made it through the office until 2007, when the Supreme Court finally said t...
+> 
+> [original article](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/K5WhAPh-kx4/googles-patent-lawyer-on-why-the-patent-system-is-broken)
+
+[source note](https://plus.google.com/115093849423083837632/posts/6rKvhgRsn98) <!-- z13hz1aqzxvbd1zd223rw3tx4zy4zhrrw04 -->
+[[!tag categories/legal]]

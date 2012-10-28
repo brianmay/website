@@ -1,0 +1,5 @@
+# Space
+
+Articles that relate to space.
+
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

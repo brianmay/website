@@ -1,0 +1,12 @@
+[[!meta title="nvidia drivers vulnerable"]]
+[[!meta date="2012-08-07T01:02:41 GMT"]]
+# nvidia drivers vulnerable
+
+Ubuntu 12.04 with nvidia drivers appears to be vulnerable. Reason why I hate closed source drivers. Assuming advisory is correct, nvidia doesn&#39;t appear to be interested.
+
+> First up I didn't write this but I have executed it and it did work here, I was given this anonymously, it has been sent to nvidia over a month ago with no reply or advisory and the original author wi...
+> 
+> [original article](http://permalink.gmane.org/gmane.comp.security.full-disclosure/86747)
+
+[source note](https://plus.google.com/115093849423083837632/posts/FsR1ZkkWiMX) <!-- z121irqbzvioyrwms23rw3tx4zy4zhrrw04 -->
+[[!tag categories/computers/security]]

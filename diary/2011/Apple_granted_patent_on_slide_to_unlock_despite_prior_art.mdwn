@@ -1,0 +1,12 @@
+[[!meta title="Apple granted patent on slide to unlock despite prior art"]]
+[[!meta date="2011-11-02T04:27:38 GMT"]]
+# Apple granted patent on slide to unlock despite prior art
+
+> The software patent system is totally askew. We need to look no further to see this than the recent news that Apple was granted a patent on sliding to unlock a mobile device. (Edit: It actually was granted back in February, but the case pinged again, and so we're all revisiting it.) It's bad enough that a governing body somewhere actually believes that you or I aren't smart enough to come to the natural conclusion on our own (that's basically wha...
+> 
+> <img src='http://cdn.androidcentral.com/sites/androidcentral.com/files/imagecache/w550h500/postimages/9274/slide-to-unlock.jpg' alt='fullImage' />
+> 
+> [original article](http://feedproxy.google.com/~r/androidcentral/~3/0CnwGZuYxWs/apple-granted-patent-slide-unlock-even-though-it-existed-2-years-they-invented-it)
+
+[source note](https://plus.google.com/115093849423083837632/posts/NoSik3arhXo) <!-- z13dcnkpvxiwudew204cizkjbonzsnxqyzk0k -->
+[[!tag categories/legal categories/computers/Apple]]

@@ -2,4 +2,4 @@
 
 Articles that relate to holidays I have been on.
 
-[[!inline pages="diary/* and !*/Discussion and link(categories/holidays)" show="0" archive="yes" rss="no" atom="no"]]
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

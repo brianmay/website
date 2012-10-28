@@ -1,0 +1,10 @@
+[[!meta title="Security and You"]]
+[[!meta date="2012-05-03T07:58:40 GMT"]]
+# Security and You
+
+> Many of you may not give it a second glance, but among all the furor and concern about permissions requested by market apps and privacy, all Custom ROMs
+> 
+> [original article](http://www.cyanogenmod.com/blog/security-and-you)
+
+[source note](https://plus.google.com/115093849423083837632/posts/4v1uJUCQwPD) <!-- z124it0o4vecedgsr23rw3tx4zy4zhrrw04 -->
+[[!tag categories/computers/security categories/computers/Android]]

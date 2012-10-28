@@ -1,0 +1,14 @@
+[[!meta title="Vancouver provides open access to PT data"]]
+[[!meta date="2012-07-22T00:47:17 GMT"]]
+# Vancouver provides open access to PT data
+
+Vancouver provides open access to APIs to retrieve information on PT services. Now if only Melbourne could do the same thing...
+
+> Over the past year that I've been blogging and tweeting about TransLink's new mobile site, there's been a recurring theme among the comments and questions from our riders. People generally seem to lik...
+> 
+> <img src='http://buzzer.translink.ca/wp-content/uploads/2012/07/developer_camp1.jpg' alt='fullImage' />
+> 
+> [original article](http://buzzer.translink.ca/index.php/2012/07/translink-api-developer-camp-july-18-2012/)
+
+[source note](https://plus.google.com/115093849423083837632/posts/7wYRARPea7R) <!-- z120h3w5bsacdpjtd23rw3tx4zy4zhrrw04 -->
+[[!tag categories/public_transport]]

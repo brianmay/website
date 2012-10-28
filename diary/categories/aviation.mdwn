@@ -2,4 +2,4 @@
 
 Articles that relate to aviation.
 
-[[!inline pages="diary/* and !*/Discussion and link(categories/aviation)" show="0" archive="yes" rss="no" atom="no"]]
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

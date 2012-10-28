@@ -80,4 +80,4 @@ the best solution might be to install a full blown MTA such as postfix, and
 turn off functions I don't need (e.g. incoming SMTP support).
 """]]
 
-[[!tag categories/computers/linux]]
+[[!tag categories/computers/Linux]]

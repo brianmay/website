@@ -1,0 +1,5 @@
+# Photos
+
+Articles that have photos that look really good.
+
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

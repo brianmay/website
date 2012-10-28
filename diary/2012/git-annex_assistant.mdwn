@@ -1,0 +1,12 @@
+[[!meta title="git-annex assistant"]]
+[[!meta date="2012-05-24T08:55:43 GMT"]]
+# git-annex assistant
+
+> Manage, share, and sync your large files with the power of git and the ease of use of a simple folder you drop files into.
+> 
+> <img src='http://s3.amazonaws.com/ksr/projects/183310/photo-full.jpg?1337024303' alt='fullImage' />
+> 
+> [original article](http://www.kickstarter.com/projects/joeyh/git-annex-assistant-like-dropbox-but-with-your-own)
+
+[source note](https://plus.google.com/115093849423083837632/posts/8ykPgHjg29o) <!-- z12hfjrr5xe2wpqdj23rw3tx4zy4zhrrw04 -->
+[[!tag categories/storage]]

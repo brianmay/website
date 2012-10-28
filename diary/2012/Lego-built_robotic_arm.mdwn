@@ -1,0 +1,12 @@
+[[!meta title="Lego-built robotic arm"]]
+[[!meta date="2012-02-15T07:49:27 GMT"]]
+# Lego-built robotic arm
+
+> We've seen countless robotics projects made either partly or entirely out of Lego, but this pneumatic arm built by Max Sheppard has to rank among the most impressive. As you can see in the video above, while it may be a bit on the slow side, the arm's range of motion is remarkably life-like (even by non-Lego standards). It's also able to grip objects of different sizes, and with enough precision to pour water out of a cup, although Sheppard says ...
+> 
+> <img src='http://www.blogcdn.com/www.engadget.com/media/2012/02/lego-robotic-arm.jpg' alt='fullImage' />
+> 
+> [original article](http://www.engadget.com/2012/02/13/lego-built-robotic-arm-will-pour-you-a-drink-collapse-under-pre/)
+
+[source note](https://plus.google.com/115093849423083837632/posts/Lh98kXT8q2X) <!-- z13ccnnqunufwtrfp23rw3tx4zy4zhrrw04 -->
+[[!tag categories/remote_controlled]]

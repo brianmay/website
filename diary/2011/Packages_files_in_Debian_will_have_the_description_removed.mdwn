@@ -1,0 +1,12 @@
+[[!meta title="Packages files in Debian will have the description removed"]]
+[[!meta date="2011-11-03T22:34:40 GMT"]]
+# Packages files in Debian will have the description removed
+
+Packages files in Debian will have the description removed to the english translation file, saving space on the Debian mirrors.
+
+> 
+> 
+> [original article](http://lists.debian.org/debian-devel/2011/11/msg00103.html)
+
+[source note](https://plus.google.com/115093849423083837632/posts/TG589ahJ9Vi) <!-- z13oxribfmznxdzww04cizkjbonzsnxqyzk0k -->
+[[!tag categories/computers/Debian]]

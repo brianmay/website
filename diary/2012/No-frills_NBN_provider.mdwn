@@ -1,0 +1,12 @@
+[[!meta title="No-frills NBN provider"]]
+[[!meta date="2012-07-24T05:54:40 GMT"]]
+# No-frills NBN provider
+
+> Engineers form members-only utility.
+> 
+> <img src='http://i.haymarket.net.au/News/ethernet_shutterstock_82149487.jpg' alt='fullImage' />
+> 
+> [original article](http://www.itnews.com.au/News/309346,no-frills-nbn-provider-aims-for-the-tech-savvy.aspx)
+
+[source note](https://plus.google.com/115093849423083837632/posts/jBfB4bS8xjQ) <!-- z13zwvcj3v35x1ajw04cizkjbonzsnxqyzk0k -->
+[[!tag categories/computers/network]]

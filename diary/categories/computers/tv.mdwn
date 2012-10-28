@@ -1,0 +1,5 @@
+# TV
+
+Articles that relate to TV on computer.
+
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

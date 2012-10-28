@@ -1,0 +1,14 @@
+[[!meta title="Android public transport planner that works in Melbourne"]]
+[[!meta date="2012-04-22T11:27:10 GMT"]]
+# Android public transport planner that works in Melbourne
+
+Android public transport planner that works in Melbourne.
+
+> Everything you need for mastering public transportation! • departure times (live, including delays), • nearby stations (also on a map), • direction queries (door to do...
+> 
+> <img src='https://lh3.ggpht.com/ssLPYLPrOtxOey269IlwwdL28DNyeLAuBgbPpacbGoqNCAE1mW4M-19HBJSID9AnDAk=w124' alt='fullImage' />
+> 
+> [original article](https://play.google.com/store/apps/details?id=de.schildbach.oeffi)
+
+[source note](https://plus.google.com/115093849423083837632/posts/cjeP6EoymNV) <!-- z12bhpzx5tm5ypoqp04cizkjbonzsnxqyzk0k -->
+[[!tag categories/computers/Android]]

@@ -1,0 +1,12 @@
+[[!meta title="California added caramel coloring to the list of carcinogenic compounds"]]
+[[!meta date="2012-03-10T04:12:21 GMT"]]
+# California added caramel coloring to the list of carcinogenic compounds
+
+According to <a href="http://www.cspinet.org/new/201102161.html" class="ot-anchor">http://www.cspinet.org/new/201102161.html</a> the additives in question are Caramel III and Caramel IV, or Australian codes 150c and 150d.
+
+> jones_supa writes "California has added 4-methylimidazole (a caramel coloring) to the list of carcinogenic compounds that require an explicit warning when added to foodstuffs. Incidentally, this has entailed the big two cola producers to modify their recipe to decrease the amount of the substance — just enough to avoid the warning. The change to the recipe has already been introduced in California but will be rolled out across the U.S. to streaml...
+> 
+> [original article](http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GyGX-XfAug8/coca-cola-and-pepsi-change-recipe-to-avoid-cancer-warning)
+
+[source note](https://plus.google.com/115093849423083837632/posts/ceAbrNyLHAj) <!-- z13aepngtrzuwd2qp04cizkjbonzsnxqyzk0k -->
+[[!tag categories/safety]]

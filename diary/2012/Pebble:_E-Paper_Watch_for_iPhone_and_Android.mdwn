@@ -1,0 +1,14 @@
+[[!meta title="Pebble: E-Paper Watch for iPhone and Android"]]
+[[!meta date="2012-04-26T04:58:15 GMT"]]
+# Pebble: E-Paper Watch for iPhone and Android
+
+Pebble kickstart graphs <a href="http://www.kicktraq.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/" class="ot-anchor">http://www.kicktraq.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/</a>
+
+> Pebble is a customizable watch. Download new watchfaces, use sports and fitness apps, get notifications from your phone.
+> 
+> <img src='http://www.kicktraq.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/dailychart.png' alt='fullImage' />
+> 
+> [original article](http://www.kicktraq.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android/)
+
+[source note](https://plus.google.com/115093849423083837632/posts/9ZLm8agDCT6) <!-- z12mslrgtp21ij51n23rw3tx4zy4zhrrw04 -->
+[[!tag categories/computers/Android]]

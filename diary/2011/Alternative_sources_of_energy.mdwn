@@ -1,0 +1,12 @@
+[[!meta title="Alternative sources of energy"]]
+[[!meta date="2011-11-07T02:10:19 GMT"]]
+# Alternative sources of energy
+
+Companies should look to alternative sources of energy when building their data centre or choosing a third-party provider, according to an analyst.
+
+> 
+> 
+> [original article](http://www.theage.com.au/it-pro/business-it/businesses-told-find-alternative-energy-sources-20111104-1mzd7.html)
+
+[source note](https://plus.google.com/115093849423083837632/posts/XoR1bBFZVbc) <!-- z13nvl5q4tazu14ps04cizkjbonzsnxqyzk0k -->
+[[!tag categories/computers/data_centres]]

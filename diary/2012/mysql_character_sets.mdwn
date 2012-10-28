@@ -1,0 +1,10 @@
+[[!meta title="mysql character sets"]]
+[[!meta date="2012-07-17T02:21:25 GMT"]]
+# mysql character sets
+
+> mysqldump encodes database backups in UTF-8 by default, while mysql restores them assuming they are encoded in latin-1: this dangerous discrepancy is a perfect example of what not to do when designing...
+> 
+> [original article](http://tanguy.ortolo.eu/blog/article62/mysql-encoding)
+
+[source note](https://plus.google.com/115093849423083837632/posts/ia2DMki6upd) <!-- z13dhl5zepeyvhkzs04cizkjbonzsnxqyzk0k -->
+[[!tag categories/computers/databases]]

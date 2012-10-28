@@ -1,0 +1,10 @@
+[[!meta title="Stanford program cracks text-based CAPTCHAs"]]
+[[!meta date="2011-11-06T00:25:42 GMT"]]
+# Stanford program cracks text-based CAPTCHAs
+
+> CAPTCHAs. In the absence of a Voigt-Kampff apparatus, they're what separate the humans from the only-posing-to-be-human. And now three Stanford researchers have further blurred that line with Decaptcha, a program that uses image processing, segmentation and a spell-checker to defeat text-based CAPTCHAs. Elie Bursztien, Matthieu Martin and John Mitchell pitted Decaptcha against a number of sites: it passed 66% of the challenges on Visa's Authorize...
+> 
+> [original article](http://www.engadget.com/2011/11/02/stanford-program-cracks-text-based-captchas-shelters-the-replic/)
+
+[source note](https://plus.google.com/115093849423083837632/posts/AxijHRBGhRy) <!-- z130gpvpxpfrwbllv23rw3tx4zy4zhrrw04 -->
+[[!tag categories/computers/security]]

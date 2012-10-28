@@ -1,0 +1,5 @@
+# Data Centres / Machinerooms
+
+Articles that relate to Data Centres
+
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

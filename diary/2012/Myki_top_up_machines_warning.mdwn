@@ -1,0 +1,14 @@
+[[!meta title="Myki top up machines warning"]]
+[[!meta date="2012-05-09T10:23:21 GMT"]]
+# Myki top up machines warning
+
+When using myki top up machines, make sure that the previous user&#39;s transaction has been cancelled first...
+
+> So I came across this fault a while back but never blogged about it, but after lining up behind a girl who had this problem tonight I figured a blog post was in order. The problem occurs at the "...
+> 
+> <img src='http://3.bp.blogspot.com/-lE_G37BTQFE/T6jjS4ifiNI/AAAAAAAAABU/S174H_MIy44/s320/quickarrow.jpg' alt='fullImage' />
+> 
+> [original article](http://themykiuser.blogspot.com.au/2012/05/beware-when-topping-up-at-myki-machine.html)
+
+[source note](https://plus.google.com/115093849423083837632/posts/8LaQCBnVMPr) <!-- z12qxrjagxf1czvtf23rw3tx4zy4zhrrw04 -->
+[[!tag categories/public_transport]]

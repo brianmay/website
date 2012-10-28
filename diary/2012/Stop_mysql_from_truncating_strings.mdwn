@@ -1,0 +1,40 @@
+[[!meta title="Stop mysql from truncating strings"]]
+[[!meta date="2012-02-28T03:16:41 GMT"]]
+# Stop mysql from truncating strings
+
+Have also been told that sql_mode=traditional will also stop mysql from truncating strings that are too long with a warning instead of an error.
+
+> SQLAlchemy, MySQL and sql_mode=traditional
+> 
+> 
+> 
+> As everyone should know, by default MySQL is an embarassing stupid toy:
+> 
+> 
+> 
+> mysql> create table foo (val integer not null);
+> 
+> Query OK, 0 rows affected (0.03 sec)
+> 
+> 
+> 
+> mysql> insert into foo values (1/0);
+> 
+> ERROR 1048 (23000): Column 'val' cannot be null
+> 
+> 
+> 
+> mysql> insert into foo values (1);
+> 
+> Query OK, 1 row affected (0.00 sec)
+> 
+> 
+> 
+> mysql> update foo set val=1/0 where val=1;
+> 
+> Query OK, 1 row affected, 1 warning (0.00 sec)...
+> 
+> [original article](http://www.enricozini.org/2012/tips/sa-sqlmode-traditional/)
+
+[source note](https://plus.google.com/115093849423083837632/posts/BbaFnizWH4Z) <!-- z123id2plpriidf1z23rw3tx4zy4zhrrw04 -->
+[[!tag categories/computers/databases]]

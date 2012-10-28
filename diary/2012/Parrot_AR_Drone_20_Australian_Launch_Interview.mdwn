@@ -1,0 +1,12 @@
+[[!meta title="Parrot AR Drone 2.0 Australian Launch Interview"]]
+[[!meta date="2012-05-27T03:52:02 GMT"]]
+# Parrot AR Drone 2.0 Australian Launch Interview
+
+> Today, Live Tech Australia was invited to the local launch of the Parrot AR Drone 2.0. Nathan speaks to Parrot Managing Director / Vice President to discuss the new product.
+> 
+> <img src='https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://ytimg.googleusercontent.com/vi/G8JnvN1qwEY/hqdefault.jpg&container=focus&gadget=a&rewriteMime=image/*&refresh=31536000&resize_w=497' alt='image' />
+> 
+> [original video](http://www.youtube.com/watch?v=G8JnvN1qwEY)
+
+[source note](https://plus.google.com/115093849423083837632/posts/SDKbRGTrbwt) <!-- z13jxrnotx23cxroq04cizkjbonzsnxqyzk0k -->
+[[!tag categories/remote_controlled]]

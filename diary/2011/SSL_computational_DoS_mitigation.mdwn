@@ -1,0 +1,28 @@
+[[!meta title="SSL computational DoS mitigation"]]
+[[!meta date="2011-11-02T01:36:07 GMT"]]
+# SSL computational DoS mitigation
+
+> Some days ago, a hacker group, THC , released a
+> 
+> denial of service tool for SSL web servers. As stated in its
+> 
+> description, the problem is not really new: a complete SSL handshake
+> 
+> implies costly cryptographic computations.
+> 
+> There are two different aspects in the presented attack:
+> 
+> 
+> 
+> The computation cost of an handshake is more important on the
+> 
+> server side than on the client side. The advisory explains that a
+> 
+> server will require 15 times the processing...
+> 
+> <img src='http://d1g3mdmxf8zbo9.cloudfront.net/images/ssl-server-vs-client.png' alt='fullImage' />
+> 
+> [original article](http://www.luffy.cx/en/blog/2011-ssl-dos-mitigation.html)
+
+[source note](https://plus.google.com/115093849423083837632/posts/Y2vtD7vX8RE) <!-- z12wyr5byoawgnl5t04cizkjbonzsnxqyzk0k -->
+[[!tag categories/computers/security]]

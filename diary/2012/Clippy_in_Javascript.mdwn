@@ -1,0 +1,12 @@
+[[!meta title="Clippy in Javascript"]]
+[[!meta date="2012-06-05T07:25:28 GMT"]]
+# Clippy in Javascript
+
+> Add Clippy or his friends to any website for instant nostalgia. Our research shows that people love two things: failed Microsoft technologies and obscure Javascript libraries. Naturally, we decided to...
+> 
+> <img src='http://clippy.js.s3.amazonaws.com/og.jpg' alt='fullImage' />
+> 
+> [original article](http://www.smore.com/clippy-js)
+
+[source note](https://plus.google.com/115093849423083837632/posts/GyGP9YWDb67) <!-- z120gxd4ukfkuhjez23rw3tx4zy4zhrrw04 -->
+[[!tag categories/computers/programming categories/humor]]

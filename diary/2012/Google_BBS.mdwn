@@ -1,0 +1,12 @@
+[[!meta title="Google BBS"]]
+[[!meta date="2012-04-16T08:36:31 GMT"]]
+# Google BBS
+
+> If the third digit of your birth year is a nine (or heck, a zero), you'll likely never have experienced the true agony joy that was BBS or Bulletin Board Systems. Well, thanks to nostalgic developer Norbert Landsteiner, you can take a glimpse at how your dad got online with an HTML / JavaScript emulation BBS Google. Likewise, more seasoned travelers of the internet can take a trip down memory lane and see what Mountain View's search engine might ...
+> 
+> <img src='http://www.blogcdn.com/www.engadget.com/media/2012/04/bbsgoogleoldoldskool.png' alt='fullImage' />
+> 
+> [original article](http://www.engadget.com/2012/04/14/bbs-version-of-google/)
+
+[source note](https://plus.google.com/115093849423083837632/posts/ToxrwjM14jt) <!-- z12lwbajnufmvnd5004cizkjbonzsnxqyzk0k -->
+[[!tag categories/historic]]

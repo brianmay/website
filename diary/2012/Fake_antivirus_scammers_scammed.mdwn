@@ -1,0 +1,10 @@
+[[!meta title="Fake antivirus scammers scammed"]]
+[[!meta date="2012-05-26T10:39:35 GMT"]]
+# Fake antivirus scammers scammed
+
+> Fake antivirus scammers recently got more than they bargained for when they unknowingly dialed the home number of a Sourcefire security researcher who then lured them to an impromptu honeypot and reco...
+> 
+> [original article](http://m.darkreading.com/133696/show/01d4dec01e86c73820e523612d3a252e/)
+
+[source note](https://plus.google.com/115093849423083837632/posts/i4XGUpWCrGR) <!-- z125e3vgtzvqdpjrp04cizkjbonzsnxqyzk0k -->
+[[!tag categories/scams]]

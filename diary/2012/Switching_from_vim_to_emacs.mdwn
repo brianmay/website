@@ -1,0 +1,14 @@
+[[!meta title="Switching from vim to emacs"]]
+[[!meta date="2012-06-08T00:36:05 GMT"]]
+# Switching from vim to emacs
+
+Switching from vim to emacs
+
+> 
+> 
+> <img src='http://abstrusegoose.com/strips/sometimes_im_just_curious_what_its_like_on_the_other_side.png' alt='fullImage' />
+> 
+> [original article](http://abstrusegoose.com/469)
+
+[source note](https://plus.google.com/115093849423083837632/posts/528YGCr4hHQ) <!-- z13zsbhwssj1jp0ss23rw3tx4zy4zhrrw04 -->
+[[!tag categories/humor]]

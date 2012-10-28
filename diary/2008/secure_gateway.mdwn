@@ -40,4 +40,4 @@ With virtualisation software, it is possible to produce a reasonable gateway
 with only one computer, and still have a firewall protecting the various
 applications from each other.
 
-[[!tag categories/computers categories/computers/security categories/computers/linux categories/computers/xen]]
+[[!tag categories/computers categories/computers/security categories/computers/Linux categories/computers/xen]]

@@ -1,0 +1,12 @@
+[[!meta title="Ubuntu considering critical bugs an "invalid" bug"]]
+[[!meta date="2011-12-14T23:01:13 GMT"]]
+# Ubuntu considering critical bugs an "invalid" bug
+
+Fortunately this bug is fixed now...
+
+> I just discovered that bug report over at Ubuntu. Short summary: They have a script in upstart which is not meant to be run manually and if you do it will erase your whole file system . Additionally it seems that the fact that you shall not run that script is not communicated anywhere. That alone isn't the most spectacular about it. Bugs happen. Whats spectacular about it is how a Canonical employee and member of the TechBoard (for people who don...
+> 
+> [original article](http://tech.just-imho.net/2010/04/ubuntu-considering-critical-bugs.html)
+
+[source note](https://plus.google.com/115093849423083837632/posts/RuV5U1aqskN) <!-- z12pt1uifsfoy5woo04cizkjbonzsnxqyzk0k -->
+[[!tag categories/computers/Ubuntu]]

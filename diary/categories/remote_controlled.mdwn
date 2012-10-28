@@ -1,0 +1,5 @@
+# Remote Controlled
+
+Articles that relate to Remote Controlled vehicles
+
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

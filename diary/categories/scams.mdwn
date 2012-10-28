@@ -1,0 +1,5 @@
+# Scams
+
+Articles that relate to scams.
+
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

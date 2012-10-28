@@ -1,0 +1,5 @@
+# Jobs
+
+Articles that relate to Jobs.
+
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

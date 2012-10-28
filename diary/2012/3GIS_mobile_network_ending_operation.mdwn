@@ -1,0 +1,12 @@
+[[!meta title="3GIS mobile network ending operation"]]
+[[!meta date="2012-07-31T22:52:28 GMT"]]
+# 3GIS mobile network ending operation
+
+3GIS Telstra/Three 2100MHz mobile network ending operation August 31st.
+
+> Use Telstra? You may want to read this
+> 
+> [original article](http://www.theage.com.au/digital-life/mobiles/use-telstra-you-may-want-to-read-this-20120731-23c4r.html)
+
+[source note](https://plus.google.com/115093849423083837632/posts/HwqvNNFiBfw) <!-- z13lepu4oqyeijdv523rw3tx4zy4zhrrw04 -->
+[[!tag categories/mobile]]

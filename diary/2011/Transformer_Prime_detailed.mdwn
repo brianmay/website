@@ -1,0 +1,14 @@
+[[!meta title="Transformer Prime detailed"]]
+[[!meta date="2011-11-09T07:41:15 GMT"]]
+# Transformer Prime detailed
+
+May provide the Samsung Galaxy 10.1 with some serious competition. Also the keyboard dock is lighter (1.2 pounds vs 1.5).
+
+> For three weeks now, Android fans have been fidgeting impatiently. Specifically, ever since ASUS chairman Jonney Shih took the stage at last month's AsiaD conference and teased the next-gen Transformer tablet. Though he only gave us a quick glimpse, he recited a laundry list of specs: a 10.1-inch display, 8.3mm-thick body, mini-HDMI output, microSD slot and an update to Ice Cream Sandwich by the end of the year, if not sooner. Not to mention, it'...
+> 
+> <img src='http://www.blogcdn.com/www.engadget.com/media/2011/11/transformer-prime-announce-lead.jpg' alt='fullImage' />
+> 
+> [original article](http://www.engadget.com/2011/11/09/transformer-prime-detailed-10-inch-super-ips-display-12-hour/)
+
+[source note](https://plus.google.com/115093849423083837632/posts/fHSyRNwpjLp) <!-- z12yul2outunztwb404cizkjbonzsnxqyzk0k -->
+[[!tag categories/computers/Android]]

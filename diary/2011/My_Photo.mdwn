@@ -1,0 +1,10 @@
+[[!meta title="My Photo"]]
+[[!meta date="2011-10-30T00:42:09 GMT"]]
+# My Photo
+
+> [<img src='https://lh6.googleusercontent.com/-0I1Sce_8RC8/TqydMoenFGI/AAAAAAAAAHc/74OyfAVVBKo/w497-h373/IMG_8406.jpg' alt='thumbnail' />](https://plus.google.com/photos/115093849423083837632/albums/5668812240241872625/5669078871302411362)
+> 
+> [original album](https://plus.google.com/photos/115093849423083837632/albums/5668812240241872625)
+
+[source note](https://plus.google.com/115093849423083837632/posts/VfchN9YqFQQ) <!-- z13uvnm5nnbripg5f04cizkjbonzsnxqyzk0k -->
+[[!tag categories/photos]]

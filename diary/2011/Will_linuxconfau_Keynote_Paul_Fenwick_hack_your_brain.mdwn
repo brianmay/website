@@ -1,0 +1,24 @@
+[[!meta title="Will linux.conf.au Keynote Paul Fenwick hack your brain?"]]
+[[!meta date="2011-11-07T23:32:53 GMT"]]
+# Will linux.conf.au Keynote Paul Fenwick hack your brain?
+
+> Ballarat, 7 November 2011
+> 
+> 
+> 
+> The linux.conf.au 2012 team is proud to confirm Paul Fenwick as the 3rd keynote speaker for January's event. Renowned internationally as a humourous and entertaining speaker, Paul's presentation will cover known bugs and exploits - in your brain!
+> 
+> 
+> 
+> Paul had a twinkle in his eye as he explained further.
+> 
+> "Humans - as a species, we suck! The only real evolutionary advantage we have
+> 
+> is our brains, and by using them we’ve bec...
+> 
+> <img src='http://linux.conf.au/images/speakers/speaker-pjf.jpg' alt='fullImage' />
+> 
+> [original article](http://lca2012.linux.org.au/media/news/68)
+
+[source note](https://plus.google.com/115093849423083837632/posts/b3XH3Xtr3mb) <!-- z13xexng1vr1tjlaf04cizkjbonzsnxqyzk0k -->
+[[!tag categories/conferences]]

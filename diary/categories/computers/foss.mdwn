@@ -1,0 +1,5 @@
+# FOSS
+
+Articles that relate to Free and Open Source Software (FOSS).
+
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

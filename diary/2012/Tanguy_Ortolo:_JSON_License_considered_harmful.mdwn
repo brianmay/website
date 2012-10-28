@@ -1,0 +1,42 @@
+[[!meta title="Tanguy Ortolo: JSON License considered harmful"]]
+[[!meta date="2012-03-10T04:00:33 GMT"]]
+# Tanguy Ortolo: JSON License considered harmful
+
+> Summary
+> 
+> 
+> 
+> The JSON License may
+> 
+> seem interesting, but it a bad license, both non-free and ambiguous: do
+> 
+> not use it. If you are the author of a piece of software that
+> 
+> uses JSMin
+> 
+> or its PHP port,
+> 
+> consider dropping that non-free part or at least rendering it
+> 
+> optional. The JSON license
+> 
+> 
+> 
+> Do you know the JSON License?
+> 
+> It is a software license inspired by the MIT/Expat license with one
+> 
+> additional morality clause:
+> 
+> 
+> 
+> The Software shall be used for Good, not
+> 
+> ...
+> 
+> <img src='http://planet.debian.org/heads/tanguy.png' alt='fullImage' />
+> 
+> [original article](http://tanguy.ortolo.eu/blog/article46/json-license)
+
+[source note](https://plus.google.com/115093849423083837632/posts/ZnAixUbPp35) <!-- z132hvcpjxnhepza304cizkjbonzsnxqyzk0k -->
+[[!tag categories/legal]]

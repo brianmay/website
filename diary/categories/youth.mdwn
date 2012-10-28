@@ -1,0 +1,5 @@
+# Youth
+
+Articles that relate to recent additions to the population.
+
+[[!inline pages="diary/* and !*/Discussion and link(.)" show="0" archive="yes" rss="no" atom="no"]]

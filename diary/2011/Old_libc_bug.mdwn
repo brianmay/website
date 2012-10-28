@@ -1,0 +1,12 @@
+[[!meta title="Old libc bug"]]
+[[!meta date="2011-11-15T02:50:13 GMT"]]
+# Old libc bug
+
+Old libc bug can result in silent data loss for stdout. <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=28251" class="ot-anchor">http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=28251</a> <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=28250" class="ot-anchor">http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=28250</a>
+
+> Debian Bug report logs - #28251 libc should cause programs which leave stuff in stdio to fail. version graph. Package: libc6; Maintainer for libc6 is GNU Libc Maintainers <debian-glibc@lists.debian...
+> 
+> [original article](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=28251)
+
+[source note](https://plus.google.com/115093849423083837632/posts/YtyDevSaLAE) <!-- z13hwf2bklidilq5y04cizkjbonzsnxqyzk0k -->
+[[!tag categories/computers/security]]

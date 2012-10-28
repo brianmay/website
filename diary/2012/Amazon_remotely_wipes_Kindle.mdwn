@@ -1,0 +1,14 @@
+[[!meta title="Amazon remotely wipes Kindle"]]
+[[!meta date="2012-10-23T09:39:18 GMT"]]
+# Amazon remotely wipes Kindle
+
+Amazon closes account and wipes Kindle without notice or good explanation.
+
+> Bekkelund.net er en blogg av Martin Bekkelund om IT, politikk og friluftsliv
+> 
+> <img src='http://www.bekkelund.net/wp-content/themes/martin/images/martin_bekkelund_avatar_02.jpg' alt='fullImage' />
+> 
+> [original article](http://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/)
+
+[source note](https://plus.google.com/115093849423083837632/posts/bfX8XMkxEV4) <!-- z13vv3novw3zt3byj04cizkjbonzsnxqyzk0k -->
+[[!tag categories/ebooks]]
