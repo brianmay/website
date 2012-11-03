@@ -1,0 +1,10 @@
+
+[[!comment  format=mdwn
+claimedauthor="Brian May"
+url="https://plus.google.com/115093849423083837632"
+subject="Google+ Comment"
+date="2011-11-15T03:34:04 GMT"
+content="""
+Not odd, at all. Noticed I can reproduce the same problem with the software keyboard. Typing in &quot;Hello this&quot; results in &quot;H thisello&quot; being displayed with the cursor after the s in &quot;this&quot;. ie. the cursor has a habbit of jumping back to the 2nd character after several seconds when typing the first line. Also touching the text immediately after the problem has occurred can result in the characters being reordered or copied in weird ways.<br /><br />After it has had its first &quot;tantrum&quot; then it seems to work fine, unless you delete all the text and start again. Even then, it is so restrictive I won&#39;t bother using I think.<br /><br />Never been a fan of Google Docs since I first noticed that the formatting of my document was broken after trying to export it as PDF - ie. line breaks not appearing where they should be and that sort of thing.
+"""
+]]
