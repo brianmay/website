@@ -2,7 +2,7 @@
 [[!meta date="2011-09-18T14:00:00 GMT"]]
 # Twitter updates 2011-09-12
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/1184638711/n669720518_70410_2684_normal.jpg" alt="" /><div class="tweet_text">Andy Botting @<a href="https://twitter.com/andybotting">andybotting</a><br/>It's incredible how Adobe treat Linux users with such contempt. 
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1184638711/n669720518_70410_2684_normal.jpg" alt="" class="avatar" /><div class="tweet_text">Andy Botting @<a href="https://twitter.com/andybotting">andybotting</a><br/>It's incredible how Adobe treat Linux users with such contempt. 
 You just have to read the comments of this bug: <a href="https://bugbase.adobe.com/index.cfm?event=bug&amp;id=2968177">bugbase.adobe.com/index.cfm?even…</a><br/><a href="https://twitter.com/andybotting/status/114846699180142592">2011-09-16 19:01:51+10:00</a>, retweeted by <a href="https://twitter.com/andybotting">penguin_brian</a> at 2011-09-16 19:01:51+10:00</div></div>
 
 

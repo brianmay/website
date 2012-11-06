@@ -2,9 +2,9 @@
 [[!meta date="2010-12-12T13:00:00 GMT"]]
 # Twitter updates 2010-12-06
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/1108405843/chris_jabber.org.au_normal.png" alt="" /><div class="tweet_text">Chris Samuel @<a href="https://twitter.com/chris_bloke">chris_bloke</a><br/>Great blog by Jim Gettys on "bufferbloat" - possible pathological interaction between TCP and routers http://bit.ly/gUn83m<br/><a href="https://twitter.com/chris_bloke/status/14533352543494144">2010-12-07 15:53:33+11:00</a>, retweeted by <a href="https://twitter.com/chris_bloke">penguin_brian</a> at 2010-12-07 15:53:33+11:00</div></div>
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1108405843/chris_jabber.org.au_normal.png" alt="" class="avatar" /><div class="tweet_text">Chris Samuel @<a href="https://twitter.com/chris_bloke">chris_bloke</a><br/>Great blog by Jim Gettys on "bufferbloat" - possible pathological interaction between TCP and routers http://bit.ly/gUn83m<br/><a href="https://twitter.com/chris_bloke/status/14533352543494144">2010-12-07 15:53:33+11:00</a>, retweeted by <a href="https://twitter.com/chris_bloke">penguin_brian</a> at 2010-12-07 15:53:33+11:00</div></div>
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/1452836827/IMG_0030_-_20110721-small_normal.png" alt="" /><div class="tweet_text">Wade Roberts @<a href="https://twitter.com/incorrect">incorrect</a><br/>I'm one of the few who doesn't wear a suit around the office, so of course I'm the one who knows why their Win7 install doesn't work.<br/><a href="https://twitter.com/incorrect/status/12694472634662912">2010-12-09 10:15:49+11:00</a>, retweeted by <a href="https://twitter.com/incorrect">penguin_brian</a> at 2010-12-09 10:15:49+11:00</div></div>
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1452836827/IMG_0030_-_20110721-small_normal.png" alt="" class="avatar" /><div class="tweet_text">Wade Roberts @<a href="https://twitter.com/incorrect">incorrect</a><br/>I'm one of the few who doesn't wear a suit around the office, so of course I'm the one who knows why their Win7 install doesn't work.<br/><a href="https://twitter.com/incorrect/status/12694472634662912">2010-12-09 10:15:49+11:00</a>, retweeted by <a href="https://twitter.com/incorrect">penguin_brian</a> at 2010-12-09 10:15:49+11:00</div></div>
 
 
 [[!tag categories/tweets]]
