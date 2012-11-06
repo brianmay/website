@@ -2,9 +2,9 @@
 [[!meta date="2011-05-08T14:00:00 GMT"]]
 # Twitter updates 2011-05-02
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/1277622375/d5685e2634c1bc507167c02af86dbe9b_normal.png" alt="" /><div class="tweet_text">Paul Shirren <a href="https://twitter.com/shirro">@shirro</a><br/>I have native IPv6 end-to-end thanks to @linode and @internode. Two really cool companies that happen to end in node.<br/><a href="https://twitter.com/shirro/status/65684769886846976">2011-05-04 14:29:01+10:00</a>, retweeted by <a href="https://twitter.com/shirro">penguin_brian</a> at 2011-05-04 14:29:01+10:00</div></div>
-
 <div class="tweet"><img src="http://a0.twimg.com/profile_images/1378166982/774_Twitter_normal.jpg" alt="" /><div class="tweet_text">ABC Radio Melbourne <a href="https://twitter.com/774melbourne">@774melbourne</a><br/>Keep left: Escalator etiquette and pedestrian convention... http://bit.ly/lpqq8b (open for comment)<br/><a href="https://twitter.com/774melbourne/status/65685378149003264">2011-05-04 13:13:21+10:00</a>, retweeted by <a href="https://twitter.com/774melbourne">penguin_brian</a> at 2011-05-04 13:13:21+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1277622375/d5685e2634c1bc507167c02af86dbe9b_normal.png" alt="" /><div class="tweet_text">Paul Shirren <a href="https://twitter.com/shirro">@shirro</a><br/>I have native IPv6 end-to-end thanks to @linode and @internode. Two really cool companies that happen to end in node.<br/><a href="https://twitter.com/shirro/status/65684769886846976">2011-05-04 14:29:01+10:00</a>, retweeted by <a href="https://twitter.com/shirro">penguin_brian</a> at 2011-05-04 14:29:01+10:00</div></div>
 
 <div class="tweet"><img src="http://a0.twimg.com/profile_images/1593948917/me_normal.jpg" alt="" /><div class="tweet_text">Daniel Hall <a href="https://twitter.com/smarthall">@smarthall</a><br/>I don't get it. These bins are supposed to make us more green but they gave me a red one.<br/><a href="https://twitter.com/smarthall/status/66465952346292225">2011-05-06 21:04:27+10:00</a>, retweeted by <a href="https://twitter.com/smarthall">penguin_brian</a> at 2011-05-06 21:04:27+10:00</div></div>
 

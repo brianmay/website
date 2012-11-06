@@ -6,9 +6,9 @@
 
 <div class="tweet"><img src="http://a0.twimg.com/profile_images/1586219468/twitter_normal.png" alt="" /><div class="tweet_text">Ausdroid <a href="https://twitter.com/Ausdroid">@Ausdroid</a><br/>Samsung fires back at Apple, files for injunction to stop sales of the iPhone 4S here in Australia http://t.co/seBKYjH7<br/><a href="https://twitter.com/Ausdroid/status/125824855408001024">2011-10-17 17:06:37+11:00</a>, retweeted by <a href="https://twitter.com/Ausdroid">penguin_brian</a> at 2011-10-17 17:06:37+11:00</div></div>
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/2793023878/236895527003de183464f2e0a4bc4f71_normal.png" alt="" /><div class="tweet_text">thinkgeek <a href="https://twitter.com/thinkgeek">@thinkgeek</a><br/>We made you breakfast... or is it dessert? SO CONFUSED: http://t.co/6tMJJlF3<br/><a href="https://twitter.com/thinkgeek/status/127125463398227968">2011-10-21 00:03:15+11:00</a>, retweeted by <a href="https://twitter.com/thinkgeek">penguin_brian</a> at 2011-10-21 00:03:15+11:00</div></div>
-
 <div class="tweet"><img src="http://a0.twimg.com/profile_images/2392768058/xvyvc4u6yh56mr8sxv5h_normal.jpeg" alt="" /><div class="tweet_text">ZaReason <a href="https://twitter.com/zareason">@zareason</a><br/>trying to launch a tablet if only the little people would let us use it: http://t.co/JVYwR39W<br/><a href="https://twitter.com/zareason/status/132199051998408705">2011-10-19 09:30:15+11:00</a>, retweeted by <a href="https://twitter.com/zareason">penguin_brian</a> at 2011-10-19 09:30:15+11:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2793023878/236895527003de183464f2e0a4bc4f71_normal.png" alt="" /><div class="tweet_text">thinkgeek <a href="https://twitter.com/thinkgeek">@thinkgeek</a><br/>We made you breakfast... or is it dessert? SO CONFUSED: http://t.co/6tMJJlF3<br/><a href="https://twitter.com/thinkgeek/status/127125463398227968">2011-10-21 00:03:15+11:00</a>, retweeted by <a href="https://twitter.com/thinkgeek">penguin_brian</a> at 2011-10-21 00:03:15+11:00</div></div>
 
 
 [[!tag categories/tweets]]
