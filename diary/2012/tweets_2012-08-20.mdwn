@@ -1,0 +1,29 @@
+[[!meta title="Twitter updates 2012-08-20"]]
+[[!meta date="2012-08-26T14:00:00 GMT"]]
+# Twitter updates 2012-08-20
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2031049065/ptua-logo-orange2_normal.png" alt="" /><div class="tweet_text">PTUA <a href="https://twitter.com/ptua">@ptua</a><br/>Warning from @MetroTrains of the possibility of disruptions on Tuesday due to industrial action http://t.co/tfHHmwdo<br/><a href="https://twitter.com/ptua/status/237679357571776512">2012-08-20 16:56:32+10:00</a>, retweeted by <a href="https://twitter.com/ptua">penguin_brian</a> at 2012-08-20 16:56:32+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2716537989/02341e7aa69f03308964713ef6b61179_normal.jpeg" alt="" /><div class="tweet_text">Gavin Duley <a href="https://twitter.com/penguinoid">@penguinoid</a><br/>Legal myths about the Assange extradition, by @DavidAllenGreen -- http://t.co/PtcqkL2z via @NewStatesman<br/><a href="https://twitter.com/penguinoid/status/237684268388716544">2012-08-21 00:05:35+10:00</a>, retweeted by <a href="https://twitter.com/penguinoid">penguin_brian</a> at 2012-08-21 00:05:35+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2101960998/Brenshay-01_normal.png" alt="" /><div class="tweet_text">Queefer Sutherland <a href="https://twitter.com/FlangeSquealer">@FlangeSquealer</a><br/>@danielbowen @metrotrains Level Crossing Radio Proximity trial thing. http://t.co/9eVXAtJF<br/><a href="https://twitter.com/FlangeSquealer/status/238122410078003200">2012-08-21 08:24:05+10:00</a>, retweeted by <a href="https://twitter.com/FlangeSquealer">penguin_brian</a> at 2012-08-21 08:24:05+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2716537989/02341e7aa69f03308964713ef6b61179_normal.jpeg" alt="" /><div class="tweet_text">Gavin Duley <a href="https://twitter.com/penguinoid">@penguinoid</a><br/>Jury Awards $1 Billion to Apple in Samsung Patent Case -- http://t.co/Tilkmup5 via @nytimes<br/><a href="https://twitter.com/penguinoid/status/239202520361230336">2012-08-25 10:13:05+10:00</a>, retweeted by <a href="https://twitter.com/penguinoid">penguin_brian</a> at 2012-08-25 10:13:05+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/118150634/72-si-symbol-full_normal.jpg" alt="" /><div class="tweet_text">Joe Landman <a href="https://twitter.com/sijoe">@sijoe</a><br/>ahhh
+
+in~/.bashrc
+
+alias fixjava="killall -9 java ; rm -rf ~/.java"
+
+
+landman@metal:~$ fixjava 
+java: no process found
+
+Yup, its fixed now.<br/><a href="https://twitter.com/sijoe/status/239202560106459136">2012-08-25 06:23:22+10:00</a>, retweeted by <a href="https://twitter.com/sijoe">penguin_brian</a> at 2012-08-25 06:23:22+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2716537989/02341e7aa69f03308964713ef6b61179_normal.jpeg" alt="" /><div class="tweet_text">Gavin Duley <a href="https://twitter.com/penguinoid">@penguinoid</a><br/>(READER CORRECTION OF) Legal myths about the
+Assange extradition -- http://t.co/CoRb2yQE via @DavidAllenGreen<br/><a href="https://twitter.com/penguinoid/status/239253655847575552">2012-08-25 15:54:07+10:00</a>, retweeted by <a href="https://twitter.com/penguinoid">penguin_brian</a> at 2012-08-25 15:54:07+10:00</div></div>
+
+
+[[!tag categories/tweets]]

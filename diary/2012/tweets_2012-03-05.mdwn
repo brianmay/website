@@ -1,0 +1,16 @@
+[[!meta title="Twitter updates 2012-03-05"]]
+[[!meta date="2012-03-11T13:00:00 GMT"]]
+# Twitter updates 2012-03-05
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2498983245/r40bwzau1r0al20wsbd1_normal.jpeg" alt="" /><div class="tweet_text">Stuart Maun <a href="https://twitter.com/MAUNConsulting">@MAUNConsulting</a><br/>Been to the doctors today. I said "I think I'm addicted to Twitter'. Doc said "Sorry, I don't follow you..."<br/><a href="https://twitter.com/MAUNConsulting/status/176790051160723456">2012-03-06 03:40:17+11:00</a>, retweeted by <a href="https://twitter.com/MAUNConsulting">penguin_brian</a> at 2012-03-06 03:40:17+11:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/651575553/twittergithub2_normal.png" alt="" /><div class="tweet_text">GitHub <a href="https://twitter.com/github">@github</a><br/>Due to the recent security vulnerability we are asking all users to verify their SSH keys: https://t.co/F1GGJhWy<br/><a href="https://twitter.com/github/status/177482463638073344">2012-03-08 05:56:50+11:00</a>, retweeted by <a href="https://twitter.com/github">penguin_brian</a> at 2012-03-08 05:56:50+11:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/651575553/twittergithub2_normal.png" alt="" /><div class="tweet_text">GitHub <a href="https://twitter.com/github">@github</a><br/>Need help verifying SSH fingerprints? http://t.co/LLlhdbOc<br/><a href="https://twitter.com/github/status/177482560044138497">2012-03-08 06:52:57+11:00</a>, retweeted by <a href="https://twitter.com/github">penguin_brian</a> at 2012-03-08 06:52:57+11:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1184638711/n669720518_70410_2684_normal.jpg" alt="" /><div class="tweet_text">Andy Botting <a href="https://twitter.com/andybotting">@andybotting</a><br/>I was totally stoked to walk into the @telstra store on Swanston St and see Tram Hunter installed on the first phone I looked at. Priceless.<br/><a href="https://twitter.com/andybotting/status/177571413161553921">2012-03-08 11:54:29+11:00</a>, retweeted by <a href="https://twitter.com/andybotting">penguin_brian</a> at 2012-03-08 11:54:29+11:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1812702256/daniel-profile-small3_normal.jpg" alt="" /><div class="tweet_text">Daniel Bowen <a href="https://twitter.com/danielbowen">@danielbowen</a><br/>The @ptua web site has a new 404/broken link image. (Yes, it has been reported). http://t.co/fMAoACJk #transitgeekhumour<br/><a href="https://twitter.com/danielbowen/status/178645948841467904">2012-03-11 11:27:16+11:00</a>, retweeted by <a href="https://twitter.com/danielbowen">penguin_brian</a> at 2012-03-11 11:27:16+11:00</div></div>
+
+
+[[!tag categories/tweets]]

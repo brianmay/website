@@ -1,0 +1,16 @@
+[[!meta title="Twitter updates 2012-07-16"]]
+[[!meta date="2012-07-22T14:00:00 GMT"]]
+# Twitter updates 2012-07-16
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1812702256/daniel-profile-small3_normal.jpg" alt="" /><div class="tweet_text">Daniel Bowen <a href="https://twitter.com/danielbowen">@danielbowen</a><br/>Attn developers: web compatibility means testing on more than just one platform #geek<br/><a href="https://twitter.com/danielbowen/status/224653628013686784">2012-07-16 08:57:29+10:00</a>, retweeted by <a href="https://twitter.com/danielbowen">penguin_brian</a> at 2012-07-16 08:57:29+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1097037454/moo_normal.png" alt="" /><div class="tweet_text">MOO.COM <a href="https://twitter.com/overheardatmoo">@overheardatmoo</a><br/>This is possibly be the pinnacle of all things geek! MC Escher, Star Wars and Lego combined in one fantastic model:  http://t.co/NUqTx8qe<br/><a href="https://twitter.com/overheardatmoo/status/224969860021624833">2012-07-16 19:55:25+10:00</a>, retweeted by <a href="https://twitter.com/overheardatmoo">penguin_brian</a> at 2012-07-16 19:55:25+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2629695675/7e567dcec796cac389fbd9fa88591539_normal.png" alt="" /><div class="tweet_text">Alan Woodward <a href="https://twitter.com/ProfWoodward">@ProfWoodward</a><br/>Hacker opens high security handcuffs with 3D-printed keys - I wonder what's next http://t.co/l5qNeC8z<br/><a href="https://twitter.com/ProfWoodward/status/225172250171670528">2012-07-17 19:01:44+10:00</a>, retweeted by <a href="https://twitter.com/ProfWoodward">penguin_brian</a> at 2012-07-17 19:01:44+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1812702256/daniel-profile-small3_normal.jpg" alt="" /><div class="tweet_text">Daniel Bowen <a href="https://twitter.com/danielbowen">@danielbowen</a><br/>Tthis is how you do it: Vancouver dumps PT app in favour of mobile web site and public APIs (including developer camp) http://t.co/cWmZdmII<br/><a href="https://twitter.com/danielbowen/status/225418323960143872">2012-07-18 12:14:11+10:00</a>, retweeted by <a href="https://twitter.com/danielbowen">penguin_brian</a> at 2012-07-18 12:14:11+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1108405843/chris_jabber.org.au_normal.png" alt="" /><div class="tweet_text">Chris Samuel <a href="https://twitter.com/chris_bloke">@chris_bloke</a><br/>Steve Mann (@Hydraulist) assaulted by Paris @McDonalds staff for wearing augmented vision glasses http://t.co/PUXPKl9d<br/><a href="https://twitter.com/chris_bloke/status/226194969164124160">2012-07-20 14:08:25+10:00</a>, retweeted by <a href="https://twitter.com/chris_bloke">penguin_brian</a> at 2012-07-20 14:08:25+10:00</div></div>
+
+
+[[!tag categories/tweets]]

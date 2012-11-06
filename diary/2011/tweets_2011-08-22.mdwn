@@ -1,0 +1,18 @@
+[[!meta title="Twitter updates 2011-08-22"]]
+[[!meta date="2011-08-28T14:00:00 GMT"]]
+# Twitter updates 2011-08-22
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2031049065/ptua-logo-orange2_normal.png" alt="" /><div class="tweet_text">PTUA <a href="https://twitter.com/ptua">@ptua</a><br/>Acclaimed trip planner Google Transit coming to Melb: see MX p5. But will the govt release timetable data publicly? http://t.co/qKWEaqx<br/><a href="https://twitter.com/ptua/status/105878945727135744">2011-08-23 15:08:54+10:00</a>, retweeted by <a href="https://twitter.com/ptua">penguin_brian</a> at 2011-08-23 15:08:54+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2160216234/diasporalogo_normal" alt="" /><div class="tweet_text">Diaspora <a href="https://twitter.com/joindiaspora">@joindiaspora</a><br/>Diaspora is distributed, so anyone can host their own pod; Diasporg is one of them. See: http://podupti.me/ @thebestsophist @thehangedman<br/><a href="https://twitter.com/joindiaspora/status/105879050077216768">2011-08-23 15:30:02+10:00</a>, retweeted by <a href="https://twitter.com/joindiaspora">penguin_brian</a> at 2011-08-23 15:30:02+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/639085976/python-logo-inkscape-small-2_normal.png" alt="" /><div class="tweet_text">PyCon Australia <a href="https://twitter.com/pyconau">@pyconau</a><br/>videos are now being loaded at http://t.co/sgJl7PF<br/><a href="https://twitter.com/pyconau/status/105879135934611456">2011-08-23 14:31:32+10:00</a>, retweeted by <a href="https://twitter.com/pyconau">penguin_brian</a> at 2011-08-23 14:31:32+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/531744401/head_normal.png" alt="" /><div class="tweet_text">Andy Gelme <a href="https://twitter.com/geekscape">@geekscape</a><br/>What could be worse than bad software patents ?  Copyrighted APIs (Oracle vs Google) http://t.co/r2vRCL5  ... sigh :(<br/><a href="https://twitter.com/geekscape/status/106279644218654720">2011-08-24 12:15:20+10:00</a>, retweeted by <a href="https://twitter.com/geekscape">penguin_brian</a> at 2011-08-24 12:15:20+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/52705913/fish_normal.png" alt="" /><div class="tweet_text">Richard Heycock <a href="https://twitter.com/filterfish">@filterfish</a><br/>I think I've tweeted this before but it you use vim read this: http://t.co/OXHqji3. Then read it again.<br/><a href="https://twitter.com/filterfish/status/107335919471824896">2011-08-27 15:36:40+10:00</a>, retweeted by <a href="https://twitter.com/filterfish">penguin_brian</a> at 2011-08-27 15:36:40+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2160216234/diasporalogo_normal" alt="" /><div class="tweet_text">Diaspora <a href="https://twitter.com/joindiaspora">@joindiaspora</a><br/>D* will enable u to own your data so u can send it anywhere including FB Re @davewoodland86: Please say Diaspora will replace Facebook<br/><a href="https://twitter.com/joindiaspora/status/107601264833077248">2011-08-28 06:00:05+10:00</a>, retweeted by <a href="https://twitter.com/joindiaspora">penguin_brian</a> at 2011-08-28 06:00:05+10:00</div></div>
+
+
+[[!tag categories/tweets]]

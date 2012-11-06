@@ -1,0 +1,14 @@
+[[!meta title="Twitter updates 2012-06-25"]]
+[[!meta date="2012-07-01T14:00:00 GMT"]]
+# Twitter updates 2012-06-25
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1849843758/new_avatar_normal.gif" alt="" /><div class="tweet_text">Devil's Advocate <a href="https://twitter.com/peter_tonoli">@peter_tonoli</a><br/>Telstra tracks users to build web filter http://t.co/l6BSp5HC (unconfirmed) #tlslog<br/><a href="https://twitter.com/peter_tonoli/status/217488217509859328">2012-06-26 14:38:59+10:00</a>, retweeted by <a href="https://twitter.com/peter_tonoli">penguin_brian</a> at 2012-06-26 14:38:59+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/303038884/avatar-600x600-MV_normal.jpg" alt="" /><div class="tweet_text">Museum Victoria <a href="https://twitter.com/museumvictoria">@museumvictoria</a><br/>A rare Rough-toothed Dolphin stranded at Mallacoota in May &amp; MV researchers examined why. The verdict: plastic bags. http://t.co/czIb6YQe /K<br/><a href="https://twitter.com/museumvictoria/status/217509211343564800">2012-06-26 15:49:37+10:00</a>, retweeted by <a href="https://twitter.com/museumvictoria">penguin_brian</a> at 2012-06-26 15:49:37+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1681911415/tandg2_normal.jpg" alt="" /><div class="tweet_text">ABC Tech & Games <a href="https://twitter.com/ABCtech">@ABCtech</a><br/>Cant deal with all these 'Libs wont rip up NBN' claims now. FttN will destroy almost everything the #NBN promises and cost us many billions<br/><a href="https://twitter.com/ABCtech/status/218845116255834113">2012-06-29 21:00:17+10:00</a>, retweeted by <a href="https://twitter.com/ABCtech">penguin_brian</a> at 2012-06-29 21:00:17+10:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1108405843/chris_jabber.org.au_normal.png" alt="" /><div class="tweet_text">Chris Samuel <a href="https://twitter.com/chris_bloke">@chris_bloke</a><br/>If you're seeing odd behaviour on #Linux systems then it's well worth trying (as root): date -s "`date`"<br/><a href="https://twitter.com/chris_bloke/status/219363734928363520">2012-07-01 19:17:59+10:00</a>, retweeted by <a href="https://twitter.com/chris_bloke">penguin_brian</a> at 2012-07-01 19:17:59+10:00</div></div>
+
+
+[[!tag categories/tweets]]
