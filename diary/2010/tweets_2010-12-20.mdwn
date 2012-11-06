@@ -2,7 +2,7 @@
 [[!meta date="2010-12-26T13:00:00 GMT"]]
 # Twitter updates 2010-12-20
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/2794691369/bf98e1cbd055995dfbe00a0c8964a518_normal.jpeg" alt="" /><div class="tweet_text">Google Nexus <a href="https://twitter.com/googlenexus">@googlenexus</a><br/>The Gingerbread OTA for Nexus One will happen in the coming weeks. Just hang tight!<br/><a href="https://twitter.com/googlenexus/status/16996523640360962">2010-12-21 08:53:22+11:00</a>, retweeted by <a href="https://twitter.com/googlenexus">penguin_brian</a> at 2010-12-21 08:53:22+11:00</div></div>
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2794691369/bf98e1cbd055995dfbe00a0c8964a518_normal.jpeg" alt="" /><div class="tweet_text">Google Nexus @<a href="https://twitter.com/googlenexus">googlenexus</a><br/>The Gingerbread OTA for Nexus One will happen in the coming weeks. Just hang tight!<br/><a href="https://twitter.com/googlenexus/status/16996523640360962">2010-12-21 08:53:22+11:00</a>, retweeted by <a href="https://twitter.com/googlenexus">penguin_brian</a> at 2010-12-21 08:53:22+11:00</div></div>
 
 
 [[!tag categories/tweets]]

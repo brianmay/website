@@ -2,9 +2,9 @@
 [[!meta date="2011-09-11T14:00:00 GMT"]]
 # Twitter updates 2011-09-05
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/2344393559/p53ytsj1dg2iccbrd1qh_normal.png" alt="" /><div class="tweet_text">Diaspora <a href="https://twitter.com/diasporg">@diasporg</a><br/>10 Reasons I Love Diaspora - Plus Get An Invite | Tech Ature http://t.co/sq0ADgC<br/><a href="https://twitter.com/diasporg/status/112686019840708608">2011-09-10 21:14:10+10:00</a>, retweeted by <a href="https://twitter.com/diasporg">penguin_brian</a> at 2011-09-10 21:14:10+10:00</div></div>
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2344393559/p53ytsj1dg2iccbrd1qh_normal.png" alt="" /><div class="tweet_text">Diaspora @<a href="https://twitter.com/diasporg">diasporg</a><br/>10 Reasons I Love Diaspora - Plus Get An Invite | Tech Ature <a href="http://owl.li/6qCdG">owl.li/6qCdG</a><br/><a href="https://twitter.com/diasporg/status/112686019840708608">2011-09-10 21:14:10+10:00</a>, retweeted by <a href="https://twitter.com/diasporg">penguin_brian</a> at 2011-09-10 21:14:10+10:00</div></div>
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/2344393559/p53ytsj1dg2iccbrd1qh_normal.png" alt="" /><div class="tweet_text">Diaspora <a href="https://twitter.com/diasporg">@diasporg</a><br/>RT @diasporg: Come and check out Diaspora at https://diasp.org<br/><a href="https://twitter.com/diasporg/status/112686715570888705">2011-09-11 07:03:38+10:00</a>, retweeted by <a href="https://twitter.com/diasporg">penguin_brian</a> at 2011-09-11 07:03:38+10:00</div></div>
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2344393559/p53ytsj1dg2iccbrd1qh_normal.png" alt="" /><div class="tweet_text">Diaspora @<a href="https://twitter.com/diasporg">diasporg</a><br/>RT @<a href="https://twitter.com/diasporg" title="Diaspora">diasporg</a>: Come and check out Diaspora at https://diasp.org<br/><a href="https://twitter.com/diasporg/status/112686715570888705">2011-09-11 07:03:38+10:00</a>, retweeted by <a href="https://twitter.com/diasporg">penguin_brian</a> at 2011-09-11 07:03:38+10:00</div></div>
 
 
 [[!tag categories/tweets]]

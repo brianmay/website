@@ -2,7 +2,7 @@
 [[!meta date="2011-01-02T13:00:00 GMT"]]
 # Twitter updates 2010-12-27
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/2338203102/85pp2cehob180xqw1uk4_normal.jpeg" alt="" /><div class="tweet_text">Dave Amenta ⚡ <a href="https://twitter.com/davux">@davux</a><br/>If I had an Android phone, I'd be afraid to send text messages.  http://code.google.com/p/android/issues/detail?id=9392<br/><a href="https://twitter.com/davux/status/21340672120332288">2010-12-30 13:50:55+11:00</a>, retweeted by <a href="https://twitter.com/davux">penguin_brian</a> at 2010-12-30 13:50:55+11:00</div></div>
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2338203102/85pp2cehob180xqw1uk4_normal.jpeg" alt="" /><div class="tweet_text">Dave Amenta ⚡ @<a href="https://twitter.com/davux">davux</a><br/>If I had an Android phone, I'd be afraid to send text messages.  http://code.google.com/p/android/issues/detail?id=9392<br/><a href="https://twitter.com/davux/status/21340672120332288">2010-12-30 13:50:55+11:00</a>, retweeted by <a href="https://twitter.com/davux">penguin_brian</a> at 2010-12-30 13:50:55+11:00</div></div>
 
 
 [[!tag categories/tweets]]
