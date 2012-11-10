@@ -2,7 +2,7 @@
 [[!meta date="2010-12-05T13:00:00 GMT"]]
 # Twitter updates 2010-11-29
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/2716537989/02341e7aa69f03308964713ef6b61179_normal.jpeg" alt="" class="avatar" /><div class="tweet_text">Gavin Duley @<a href="https://twitter.com/penguinoid">penguinoid</a><br/>Why turning water into #<a href="https://twitter.com/search?q=%23wine">wine</a> might be a bad idea - from #<a href="https://twitter.com/search?q=%23SMBC">SMBC</a> - http://bit.ly/eH3leU<br/><a href="https://twitter.com/penguinoid/status/9064576855318529">2010-11-29 08:38:57+11:00</a>, retweeted by <a href="https://twitter.com/penguinoid">penguin_brian</a> at 2010-11-29 08:38:57+11:00</div></div>
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2716537989/02341e7aa69f03308964713ef6b61179_normal.jpeg" alt="" class="avatar" /><div class="tweet_text">Gavin Duley @<a href="https://twitter.com/penguinoid">penguinoid</a><br/>Why turning water into #<a href="https://twitter.com/search?q=%23wine">wine</a> might be a bad idea - from #<a href="https://twitter.com/search?q=%23SMBC">SMBC</a> - http://bit.ly/eH3leU<br/><a href="https://twitter.com/penguinoid/status/9064576855318529">2010-11-29 08:38:57+11:00</a>, retweeted by <a href="https://twitter.com/penguinoid">penguin_brian</a> at 2010-11-29 13:02:18+11:00</div></div>
 
 
 [[!tag categories/tweets]]

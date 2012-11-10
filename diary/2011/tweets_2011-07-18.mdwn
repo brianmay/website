@@ -2,7 +2,7 @@
 [[!meta date="2011-07-24T14:00:00 GMT"]]
 # Twitter updates 2011-07-18
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/352031367/telecomix_normal.png" alt="" class="avatar" /><div class="tweet_text">Telecomix @<a href="https://twitter.com/telecomix">telecomix</a><br/>#<a href="https://twitter.com/search?q=%23Google">Google</a> Plus Bans You From Gmail adwords documents, ect if you dont use your real name http://tinyurl.com/3ze5go9 #<a href="https://twitter.com/search?q=%23privacy">privacy</a> violation<br/><a href="https://twitter.com/telecomix/status/95043691529506816">2011-07-24 18:00:50+10:00</a>, retweeted by <a href="https://twitter.com/telecomix">penguin_brian</a> at 2011-07-24 18:00:50+10:00</div></div>
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/352031367/telecomix_normal.png" alt="" class="avatar" /><div class="tweet_text">Telecomix @<a href="https://twitter.com/telecomix">telecomix</a><br/>#<a href="https://twitter.com/search?q=%23Google">Google</a> Plus Bans You From Gmail adwords documents, ect if you dont use your real name http://tinyurl.com/3ze5go9 #<a href="https://twitter.com/search?q=%23privacy">privacy</a> violation<br/><a href="https://twitter.com/telecomix/status/95043691529506816">2011-07-24 18:00:50+10:00</a>, retweeted by <a href="https://twitter.com/telecomix">penguin_brian</a> at 2011-07-24 18:12:36+10:00</div></div>
 
 
 [[!tag categories/tweets]]

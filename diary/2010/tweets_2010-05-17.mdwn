@@ -2,7 +2,7 @@
 [[!meta date="2010-05-23T14:00:00 GMT"]]
 # Twitter updates 2010-05-17
 
-<div class="tweet"><img src="http://a0.twimg.com/profile_images/2509042025/w6j4vyk4t3n4xhx2ebcc_normal.png" alt="" class="avatar" /><div class="tweet_text">Wired @<a href="https://twitter.com/wired">wired</a><br/>NOT his lucky number: CEO of identity theft protection company has identity stolen 13 times. http://ow.ly/1MOHW<br/><a href="https://twitter.com/wired/status/14273348701">2010-05-19 08:46:26+10:00</a>, retweeted by <a href="https://twitter.com/wired">penguin_brian</a> at 2010-05-19 08:46:26+10:00</div></div>
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/2509042025/w6j4vyk4t3n4xhx2ebcc_normal.png" alt="" class="avatar" /><div class="tweet_text">Wired @<a href="https://twitter.com/wired">wired</a><br/>NOT his lucky number: CEO of identity theft protection company has identity stolen 13 times. http://ow.ly/1MOHW<br/><a href="https://twitter.com/wired/status/14273348701">2010-05-19 08:46:26+10:00</a>, retweeted by <a href="https://twitter.com/wired">penguin_brian</a> at 2010-05-19 14:14:01+10:00</div></div>
 
 
 [[!tag categories/tweets]]
