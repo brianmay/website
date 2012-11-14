@@ -1,0 +1,18 @@
+[[!meta title="DigiNotar report"]]
+[[!meta date="2012-11-12T02:04:06 GMT"]]
+# DigiNotar report
+
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/HjPzdUGwh3f) on Google+.
+
+101 page report into the breach
+
+> In July 2011 DigiNotar, a Dutch Certificate Authority, was a victim of a major compromise of their infrastructure and certificate signing servers. 2 months after the attack, DigiNotar declared bankruptcy.
+> 
+> 
+> 
+> A year on, Fox-IT, an independent security company which asked by DigiNotar to investigate the intrusion, has released a fascinating 101 page report providing a deep insight into the breach.
+> 
+> [full article](http://rene.bz/diginotar-a-year-on/)
+
+<!-- z13xdzf4glfywn0v423rw3tx4zy4zhrrw04 -->
+[[!tag categories/computers/security]]

@@ -1,5 +1,5 @@
 [[!meta title="Twitter updates 2012-11-05"]]
-[[!meta date="2012-11-10T00:34:50 GMT"]]
+[[!meta date="2012-11-11T13:00:00 GMT"]]
 # Twitter updates 2012-11-05
 
 <div class="tweet"><img src="http://a0.twimg.com/profile_images/636840939/delimitertwitter_normal.jpg" alt="" class="avatar" /><div class="tweet_text">Delimiter @<a href="https://twitter.com/delimiterau">delimiterau</a><br/>Pyne won't retract false 100Mbps NBN claim: <a href="http://bit.ly/U954BC">bit.ly/U954BC</a><br/><a href="https://twitter.com/delimiterau/status/265587867210899456">2012-11-04 20:48:12+11:00</a>, retweeted by <a href="https://twitter.com/delimiterau">penguin_brian</a> at 2012-11-06 09:54:16+11:00</div></div>
@@ -40,3 +40,9 @@
 
 <div class="tweet"><img src="http://a0.twimg.com/profile_images/1184638711/n669720518_70410_2684_normal.jpg" alt="" class="avatar" /><div class="tweet_text">Andy Botting @<a href="https://twitter.com/andybotting">andybotting</a><br/>Annoyed by @<a href="https://twitter.com/yarratrams" title="Yarra Trams">yarratrams</a> #<a href="https://twitter.com/search?q=%23tramtracker">tramtracker</a> telling you about tramTracker for Android all the time? Try Tram Hunter for Android. It's now fixed.<br/><a href="https://twitter.com/andybotting/status/266727934881046528">2012-11-09 13:21:05+11:00</a>, retweeted by <a href="https://twitter.com/andybotting">penguin_brian</a> at 2012-11-09 13:24:29+11:00</div></div>
 
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/1812702256/daniel-profile-small3_normal.jpg" alt="" class="avatar" /><div class="tweet_text">Daniel Bowen @<a href="https://twitter.com/danielbowen">danielbowen</a><br/>Motorist coming around corner almost runs us over; seems surprised when I point out this simple law: <a href="http://www.flickr.com/photos/danielbowen/4463915807/">flickr.com/photos/danielb…</a> #<a href="https://twitter.com/search?q=%23RoadMorons">RoadMorons</a><br/><a href="https://twitter.com/danielbowen/status/267191889713848321">2012-11-10 19:15:05+11:00</a>, retweeted by <a href="https://twitter.com/danielbowen">penguin_brian</a> at 2012-11-10 20:08:05+11:00</div></div>
+
+<div class="tweet"><img src="http://a0.twimg.com/profile_images/67840856/square_normal.jpg" alt="" class="avatar" /><div class="tweet_text">Vicsig @<a href="https://twitter.com/vicsig">vicsig</a><br/>Melbourne’s trains in chronological order: Hitachi, Comeng, X’Trapolis and Siemens. A rare lineup, captured at Newport. <a href="http://twitter.com/vicsig/status/267378378577952769/photo/1">pic.twitter.com/odcIKc1x</a><br/><a href="https://twitter.com/vicsig/status/267402087418191872">2012-11-11 08:29:08+11:00</a>, retweeted by <a href="https://twitter.com/vicsig">penguin_brian</a> at 2012-11-11 10:03:20+11:00<img src="https://pbs.twimg.com/media/A7XrN_xCQAAK1yN.jpg" alt="" /></div></div>
+
+
+[[!tag categories/tweets]]
