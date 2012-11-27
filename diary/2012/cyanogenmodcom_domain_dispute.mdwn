@@ -1,0 +1,14 @@
+[[!meta title="cyanogenmod.com domain dispute"]]
+[[!meta date="2012-11-14T23:16:01 GMT"]]
+# cyanogenmod.com domain dispute
+
+[Brian May](https://plus.google.com/115093849423083837632) posted [this note](https://plus.google.com/115093849423083837632/posts/N5oMRDeoAvp) on Google+.
+
+&quot;<a href="http://cyanogenmod.com" class="ot-anchor">cyanogenmod.com</a> ... should be considered discontinued until further notice&quot;. For now use <a href="http://www.cyanogenmod.org/" class="ot-anchor">http://www.cyanogenmod.org/</a> or <a href="mailto:cmcyanogenmod@gmail.com" class="ot-anchor">cmcyanogenmod@gmail.com</a> instead.
+
+> We at CM are very trusting of our members, showed by both respect and permissions granted to those people we consider part of the team. Last month, this trust
+> 
+> [full article](http://www.cyanogenmod.org/blog/psa-transition-to-cyanogenmod-org)
+
+<!-- z13uxth40v2qyn1fy23rw3tx4zy4zhrrw04 -->
+[[!tag categories/computers/Android categories/legal]]
