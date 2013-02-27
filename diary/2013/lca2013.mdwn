@@ -1,6 +1,9 @@
 # LCA2013
 
-Key (!) is very good talk, worth watching, and (*) is talk I wanted to see but couldn't.
+These are talks I went to at LCA2013. As well as talks I wanted to see. I am not absolutely sure of some details,
+this is purely from memory.
+
+Key (!) is very good talk, worth watching, and (*) is talk I wanted to see.
 
 ## Monday
 
