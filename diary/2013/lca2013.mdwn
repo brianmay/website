@@ -128,6 +128,7 @@ Morning Tea
 * [git-annex](http://mirror.linux.org.au/linux.conf.au/2013/ogv/gitannex.ogv) by Joey Hess
 * [Future directions for the X Window System](http://mirror.linux.org.au/linux.conf.au/2013/ogv/Future_directions_for_the_X_Window_System.ogv) by Keith Packard (*)
 * [Teaching the X server new tricks](http://mirror.linux.org.au/linux.conf.au/2013/ogv/Teaching_the_X_server_new_tricks.ogv) by David Airlie
+* [NovaProva, a new generation unit test framework for C programs](http://mirror.linux.org.au/linux.conf.au/2013/ogv/NovaProva_or_How_I_Did_Six_Impossible_Things_Before_LCA.ogv) by Gregory Banks
 
 Lunch
 
