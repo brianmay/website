@@ -7,7 +7,7 @@ I hold skills in the following areas:
 * [[Xen]]: Virtual machines.
 * [[Mythtv]]: For watching TV via the computer.
 * [[TSM|TSM.pdf]]: For backing up data onto tape libraries.
-* Python: Programming language.
+* python, django, javascript, css, bash, sql: Programming. Plus many others.
 * Proxmox: Includes OpenVZ containers and KVM.
 * Cisco: Routers and switches.
 
