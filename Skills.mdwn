@@ -1,15 +1,9 @@
 I hold skills in the following areas:
 
 * I studied computer access control for my [[PhD]].
-* Asterisk, FreeSWITCH: Open source telephone exchange systems.
-* [[Flying]]: Travel from point A to point B through the sky.
-* [[Linux]]: Alternative operating system to Microsoft Windows.
-* Xen, KVM, Proxmox: Virtual machines.
-* [[Mythtv]]: For watching TV via the computer.
-* [[TSM|TSM.pdf]]: For backing up data onto tape libraries.
-* python, django, javascript, css, bash, sql: Programming. Plus many others.
-* Proxmox: Includes OpenVZ containers and KVM.
-* Cisco: Routers and switches.
+* [[Computers]]: [[Linux]], [[Mythtv]], FreeSWITCH, etc.
+* [[Flying]]: Flying a light aircraft from point A to point B through the sky.
+* [[Hobbies/Music]]: Travel from point A to point B through the sky.
 
 I ensure my skills remain up-to-date by constantly researching new solutions
 for old problems and attending [[Conferences]] right around the globe.
