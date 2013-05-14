@@ -1,7 +1,7 @@
 I hold skills in the following areas:
 
 * I studied computer access control for my [[PhD]].
-* [[Asterisk]]: Open source telephone exchange system.
+* Asterisk, FreeSWITCH: Open source telephone exchange systems.
 * [[Flying]]: Travel from point A to point B through the sky.
 * [[Linux]]: Alternative operating system to Microsoft Windows.
 * [[Xen]]: Virtual machines.
