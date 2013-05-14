@@ -4,7 +4,7 @@ I hold skills in the following areas:
 * Asterisk, FreeSWITCH: Open source telephone exchange systems.
 * [[Flying]]: Travel from point A to point B through the sky.
 * [[Linux]]: Alternative operating system to Microsoft Windows.
-* [[Xen]]: Virtual machines.
+* Xen, KVM, Proxmox: Virtual machines.
 * [[Mythtv]]: For watching TV via the computer.
 * [[TSM|TSM.pdf]]: For backing up data onto tape libraries.
 * python, django, javascript, css, bash, sql: Programming. Plus many others.
