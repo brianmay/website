@@ -1,5 +1,5 @@
-# Diary in 2010
+# Diary in 2009
 
-Things that I cared to write about in 2010.
+Things that I cared to write about in 2009.
 
-[[!inline pages="diary/2010/* and !*/Discussion and link(categories/*)" show="0" archive="yes" rss="no" atom="no"]]
+[[!inline pages="diary/2009/* and !*/Discussion and link(categories/*)" show="0" archive="yes" rss="no" atom="no"]]
