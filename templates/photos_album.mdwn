@@ -1,1 +1,1 @@
-<a href="http://staff.microcomaustralia.com.au/photos/album/<TMPL_VAR album>/"><TMPL_VAR link></a>
+<a href="http://photos.microcomaustralia.com.au/album/<TMPL_VAR album>/"><TMPL_VAR link></a>

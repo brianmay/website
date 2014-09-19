@@ -1,1 +1,1 @@
-<a href="http://staff.microcomaustralia.com.au/photos/person/<TMPL_VAR person>/"><TMPL_VAR link></a>
+<a href="http://photos.microcomaustralia.com.au/person/<TMPL_VAR person>/"><TMPL_VAR link></a>
